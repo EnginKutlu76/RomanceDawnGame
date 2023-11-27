@@ -1,0 +1,1863 @@
+fileFormatVersion: 2
+guid: 3a5fcd157dc6f8946a4c9f0a00350eef
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1184
+        width: 39
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b103c2cff49e0546a29a20c86c963c6
+      internalID: -2058985465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1184
+        width: 37
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091717c790015ff4da7a0ab68a7d3bc1
+      internalID: 999015968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1184
+        width: 48
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4eef458a58f8c047ae51fb4eecdde1a
+      internalID: -747787440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1184
+        width: 56
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2d797f4dee96643912b9c887eb5e12
+      internalID: 1473571416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1184
+        width: 52
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681c382392459814f8d9a5fbd650044e
+      internalID: 1328155465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1112
+        width: 48
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e847515004be85945b9393675e6b319e
+      internalID: -1018980694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1112
+        width: 40
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76f28745ccafca42b7ec88d3db36c0d
+      internalID: 817926995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1112
+        width: 43
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37ac28a6dbb6674eb0e9aa7c51059c0
+      internalID: 1816931699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1112
+        width: 58
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cee85ce2e9202e49bc43545929a5334
+      internalID: -986478058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1112
+        width: 61
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fbc349c39708b45a34fa86a8a8f4f4
+      internalID: 873013218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1040
+        width: 41
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f288c747ca983be41a52434d2a981c00
+      internalID: 1235349272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1040
+        width: 45
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e018cde891c614081a00f940b2cf36
+      internalID: -59828563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1040
+        width: 45
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52849f208c1adb43a93f6a2d2d79e10
+      internalID: -429970664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_13
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1041
+        width: 88
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ccfeadf4ee4634998fa56f81a57fbb
+      internalID: -1530643633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 960
+        width: 53
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e915d6572a48c064d90b130eea0d7256
+      internalID: 907354907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 960
+        width: 57
+        height: 66
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b837b79c5d8c64647be199e55fbf727b
+      internalID: -827633772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 960
+        width: 83
+        height: 74
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df70d233723883488c9b9e63c54aa4e
+      internalID: 2059948010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 960
+        width: 91
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94ba8b95d6655144837ed5f09ed7c86
+      internalID: 737007710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 864
+        width: 46
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6202af2b4fe132c438fe3736d41f4d86
+      internalID: -1200231856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 864
+        width: 48
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cdb5ba73228644e985f6332785315b
+      internalID: -380869797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_20
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 864
+        width: 71
+        height: 88
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae791a9ddcc54c047a0b39d93f8596a1
+      internalID: -1689351545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 864
+        width: 87
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1efdb464968f642a37ce9e5b46d8ff
+      internalID: 171538719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 792
+        width: 83
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e934484d22188dd40b0ca5387029a42f
+      internalID: -568518381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 797
+        width: 164
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79fbaa1a8d2abb46bb643a17c546e95
+      internalID: -411332534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 728
+        width: 46
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbacd9691aac2d345bfade3412ed52e1
+      internalID: 506558838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 728
+        width: 50
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece4c4bc7140b294fb4cc53a5ca25a8a
+      internalID: -1115153809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_26
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 728
+        width: 67
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ae7475ca742884bba10e34d97fd21b
+      internalID: 993507199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 648
+        width: 46
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cdeab40553c47449edc8aeb97e4b07
+      internalID: -1626276266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_28
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 648
+        width: 51
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9e7158f58988b458ed0791c546a951
+      internalID: -1495513038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_29
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 649
+        width: 56
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b5f192b4143d643b51fa7c0a19b9b8
+      internalID: 1601431366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_30
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 648
+        width: 68
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8199e77088a794298579f7c214ec5f
+      internalID: -1414871466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_31
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 651
+        width: 67
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3811b1e057604c45864e36433e2a360
+      internalID: -565844055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 576
+        width: 41
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e90c234edbeba48a66c06ed19d8159
+      internalID: -1506336553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 576
+        width: 39
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86653fd624a7a54498ccc71c3485494c
+      internalID: -565861044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_34
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 576
+        width: 39
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838ac300eccbb2c41898918d2663abf1
+      internalID: 52703729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 515
+        width: 40
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fdc1ec388a34841ae19da98a1c51b7
+      internalID: -61201361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_36
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 515
+        width: 28
+        height: 39
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6f011f1a4095041a3d96bca7c59c13
+      internalID: -1897092915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_37
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 519
+        width: 16
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3b35c7f3c6c334ab4feb551fe58bd9
+      internalID: 548351874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_38
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 456
+        width: 49
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3157a9aa69901f4cbd286793b5639f7
+      internalID: -656727082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 456
+        width: 48
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bba10d95407be4490818bab86a5864
+      internalID: 1648447933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 384
+        width: 40
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da91053394dea8428bcd18666978479
+      internalID: 1495967028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 384
+        width: 40
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03edf48ea168c9429cfac97aa0cf016
+      internalID: 545893010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_42
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 384
+        width: 40
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f30b61e3de50740b3ff547e2ce1191
+      internalID: -2049121040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 312
+        width: 44
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677f1b6830d96cc4e8dcaec8a3792b28
+      internalID: 125429073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_44
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 312
+        width: 43
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98799846cb220c14ab60035c100a2738
+      internalID: 1190999362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_45
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 313
+        width: 49
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3ca8fdd4d294948a4fdb904e82c340
+      internalID: 76136113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_46
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 312
+        width: 54
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5109d9e16e6e6a244a18dd42f5f47ade
+      internalID: 1183907004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_47
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 312
+        width: 54
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6009c526e2631df488af1f041beb4177
+      internalID: 611300601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_48
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 312
+        width: 46
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f435f0dd4ca8b2418b06b4e749cfd26
+      internalID: -686590222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 240
+        width: 48
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05c73a63473b6046a2520abcd2cf68c
+      internalID: -1835953485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 240
+        width: 49
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa39ad85eaee904cb546746291a1d1d
+      internalID: -1832810205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 292
+        width: 5
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942a4bedcc1390f4ba8bdfa85b403eb6
+      internalID: -1750672253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_52
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 240
+        width: 42
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bcfad9e54ed3d48b2db224f999f943
+      internalID: -1119169581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_53
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 240
+        width: 48
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51456cef06498d4f9b5025266c23e97
+      internalID: -2147274040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_54
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 240
+        width: 44
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5e1bc60ccabdb429b8fdf04301a00e
+      internalID: 813070032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_55
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 285
+        width: 4
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c75e44b59264d40b5ac49d3c82af7e
+      internalID: -12193735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_56
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 276
+        width: 5
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcb520a7693da84c8cfea9881e73865
+      internalID: 213529763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 160
+        width: 53
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcca2d32ed9229947acf182fe76e22e2
+      internalID: -367602558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_58
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 160
+        width: 56
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b004c9c5f071f914da523aec2cf1fa5b
+      internalID: -2030951285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 56
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683e241cea6017448bc82d0afa08e2ab
+      internalID: 1022070999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 160
+        width: 57
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5b61d2d4b3e7d47a4a1f78a179c78d
+      internalID: 1883491351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_61
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 134
+        width: 8
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3ff1a91bb875e48916a5fcca96f718
+      internalID: -1955119640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_62
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 134
+        width: 8
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc164ee95144ba4186b5b95db047c77
+      internalID: 1561289521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_63
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 134
+        width: 8
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ea183a92d97664aa5f1bbe1d4a1116
+      internalID: -865012965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_64
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 134
+        width: 8
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8481bdc0298ae0c44886eee788b5c8fe
+      internalID: 1825194358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_65
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 128
+        width: 16
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20771588b01dba747974fd42152b4bb8
+      internalID: 1929701651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_66
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 46
+        width: 21
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fde3f489b41cf844ac102ec6b0cb322
+      internalID: -1642817238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_67
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 46
+        width: 25
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d4e85228844fc418d08f2b5769020d
+      internalID: 689191250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_68
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 46
+        width: 30
+        height: 78
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe6b5f39f570064fae0a414c4bf0c40
+      internalID: 24004293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_69
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 46
+        width: 29
+        height: 78
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43aafac6ff77d34f8b7f43f5c0a8eda
+      internalID: 237470570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_70
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 46
+        width: 31
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05290f509d833be45bae7a5d8a62c149
+      internalID: -1668608600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_71
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 53
+        width: 4
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e9ade816f27724dbe564498e85e163
+      internalID: -437776513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_72
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 46
+        width: 30
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1446bb77fa70e4cbe648e8c7c48023
+      internalID: 739617679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 46
+        width: 30
+        height: 27
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0225a272747ba24693cb0673aa70738
+      internalID: 1700999715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_74
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 46
+        width: 9
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982a2cdc36d1b8f4ab7617cb6ed7ce40
+      internalID: -672556622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_75
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 31
+        width: 20
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70132539f62a5df45b7759bcf63649e6
+      internalID: -73613134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_76
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 28
+        width: 19
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32360ae7edc7b38499f982af94084382
+      internalID: 1948497509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Don Krieg_77
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 27
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73b92dc90f793c45988e87713147283
+      internalID: -1646913009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - One Piece - Don Krieg_63: -865012965
+      Game Boy Advance - One Piece - Don Krieg_19: -380869797
+      Game Boy Advance - One Piece - Don Krieg_17: 737007710
+      Game Boy Advance - One Piece - Don Krieg_50: -1832810205
+      Game Boy Advance - One Piece - Don Krieg_8: -986478058
+      Game Boy Advance - One Piece - Don Krieg_39: 1648447933
+      Game Boy Advance - One Piece - Don Krieg_34: 52703729
+      Game Boy Advance - One Piece - Don Krieg_74: -672556622
+      Game Boy Advance - One Piece - Don Krieg_11: -59828563
+      Game Boy Advance - One Piece - Don Krieg_12: -429970664
+      Game Boy Advance - One Piece - Don Krieg_59: 1022070999
+      Game Boy Advance - One Piece - Don Krieg_65: 1929701651
+      Game Boy Advance - One Piece - Don Krieg_45: 76136113
+      Game Boy Advance - One Piece - Don Krieg_36: -1897092915
+      Game Boy Advance - One Piece - Don Krieg_6: 817926995
+      Game Boy Advance - One Piece - Don Krieg_0: -2058985465
+      Game Boy Advance - One Piece - Don Krieg_18: -1200231856
+      Game Boy Advance - One Piece - Don Krieg_16: 2059948010
+      Game Boy Advance - One Piece - Don Krieg_23: -411332534
+      Game Boy Advance - One Piece - Don Krieg_40: 1495967028
+      Game Boy Advance - One Piece - Don Krieg_26: 993507199
+      Game Boy Advance - One Piece - Don Krieg_67: 689191250
+      Game Boy Advance - One Piece - Don Krieg_44: 1190999362
+      Game Boy Advance - One Piece - Don Krieg_14: 907354907
+      Game Boy Advance - One Piece - Don Krieg_4: 1328155465
+      Game Boy Advance - One Piece - Don Krieg_62: 1561289521
+      Game Boy Advance - One Piece - Don Krieg_29: 1601431366
+      Game Boy Advance - One Piece - Don Krieg_33: -565861044
+      Game Boy Advance - One Piece - Don Krieg_46: 1183907004
+      Game Boy Advance - One Piece - Don Krieg_52: -1119169581
+      Game Boy Advance - One Piece - Don Krieg_66: -1642817238
+      Game Boy Advance - One Piece - Don Krieg_1: 999015968
+      Game Boy Advance - One Piece - Don Krieg_60: 1883491351
+      Game Boy Advance - One Piece - Don Krieg_22: -568518381
+      Game Boy Advance - One Piece - Don Krieg_31: -565844055
+      Game Boy Advance - One Piece - Don Krieg_42: -2049121040
+      Game Boy Advance - One Piece - Don Krieg_5: -1018980694
+      Game Boy Advance - One Piece - Don Krieg_57: -367602558
+      Game Boy Advance - One Piece - Don Krieg_55: -12193735
+      Game Boy Advance - One Piece - Don Krieg_61: -1955119640
+      Game Boy Advance - One Piece - Don Krieg_56: 213529763
+      Game Boy Advance - One Piece - Don Krieg_10: 1235349272
+      Game Boy Advance - One Piece - Don Krieg_37: 548351874
+      Game Boy Advance - One Piece - Don Krieg_71: -437776513
+      Game Boy Advance - One Piece - Don Krieg_9: 873013218
+      Game Boy Advance - One Piece - Don Krieg_20: -1689351545
+      Game Boy Advance - One Piece - Don Krieg_51: -1750672253
+      Game Boy Advance - One Piece - Don Krieg_68: 24004293
+      Game Boy Advance - One Piece - Don Krieg_2: -747787440
+      Game Boy Advance - One Piece - Don Krieg_75: -73613134
+      Game Boy Advance - One Piece - Don Krieg_64: 1825194358
+      Game Boy Advance - One Piece - Don Krieg_69: 237470570
+      Game Boy Advance - One Piece - Don Krieg_28: -1495513038
+      Game Boy Advance - One Piece - Don Krieg_3: 1473571416
+      Game Boy Advance - One Piece - Don Krieg_43: 125429073
+      Game Boy Advance - One Piece - Don Krieg_77: -1646913009
+      Game Boy Advance - One Piece - Don Krieg_48: -686590222
+      Game Boy Advance - One Piece - Don Krieg_58: -2030951285
+      Game Boy Advance - One Piece - Don Krieg_53: -2147274040
+      Game Boy Advance - One Piece - Don Krieg_35: -61201361
+      Game Boy Advance - One Piece - Don Krieg_24: 506558838
+      Game Boy Advance - One Piece - Don Krieg_76: 1948497509
+      Game Boy Advance - One Piece - Don Krieg_30: -1414871466
+      Game Boy Advance - One Piece - Don Krieg_54: 813070032
+      Game Boy Advance - One Piece - Don Krieg_38: -656727082
+      Game Boy Advance - One Piece - Don Krieg_27: -1626276266
+      Game Boy Advance - One Piece - Don Krieg_7: 1816931699
+      Game Boy Advance - One Piece - Don Krieg_47: 611300601
+      Game Boy Advance - One Piece - Don Krieg_13: -1530643633
+      Game Boy Advance - One Piece - Don Krieg_72: 739617679
+      Game Boy Advance - One Piece - Don Krieg_15: -827633772
+      Game Boy Advance - One Piece - Don Krieg_70: -1668608600
+      Game Boy Advance - One Piece - Don Krieg_25: -1115153809
+      Game Boy Advance - One Piece - Don Krieg_41: 545893010
+      Game Boy Advance - One Piece - Don Krieg_32: -1506336553
+      Game Boy Advance - One Piece - Don Krieg_73: 1700999715
+      Game Boy Advance - One Piece - Don Krieg_21: 171538719
+      Game Boy Advance - One Piece - Don Krieg_49: -1835953485
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

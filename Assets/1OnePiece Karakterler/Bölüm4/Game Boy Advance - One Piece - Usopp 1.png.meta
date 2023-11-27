@@ -1,0 +1,1005 @@
+fileFormatVersion: 2
+guid: 08d133be48657804ca6f30f34919d666
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 403
+        width: 48
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086125a538f164640889e477761339e4
+      internalID: 1327229468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 355
+        width: 35
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d47e2ed808e2974d95d6850f4a52e42
+      internalID: -1197285909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 355
+        width: 34
+        height: 38
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f938deca889a5354b83ff3a3c18ba8f5
+      internalID: 415600728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 355
+        width: 40
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076b956b962fb4b4e89e74c8eb044ed4
+      internalID: -640574031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 355
+        width: 43
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c5ecaa8ffdbc5429491a9c65ba1f43
+      internalID: -2052012636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 355
+        width: 47
+        height: 38
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc8ac6412e8dd64888f0a7f1d19b5d8
+      internalID: -566883866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 52
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d68d06c03206fe4c88d5bab650644f7
+      internalID: -658839408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 336
+        width: 5
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bcd9912aa48194c8799ae0d182d6fb
+      internalID: 1047125024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 299
+        width: 51
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f08574b479f1b40812fcda25bc6ebe
+      internalID: 204082278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 299
+        width: 47
+        height: 38
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b228bc65d9c724fb55cd75066d8040
+      internalID: 1478656111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 299
+        width: 47
+        height: 37
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be67a10be7a953543b347b315e096ea5
+      internalID: 297400051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 316
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5901733708fe7c240b4d8b752e5eaecd
+      internalID: 4923627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 315
+        width: 7
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df61eec4903a1dd41ba21573e74a155f
+      internalID: 761266387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 52
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf7e83264adb4d4fa5e7330d6e076e9
+      internalID: 827734668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 280
+        width: 5
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e891bab8e9d4434d9be5ea20a0958d6
+      internalID: -1855674965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 243
+        width: 51
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa3bf6ce6722a649bccea8131fb4ba8
+      internalID: -648660490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 243
+        width: 47
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afbb66053e3a624eb381b175ed8c532
+      internalID: 707586731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 243
+        width: 47
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5da566b3894474f95673156681db9c
+      internalID: 100654325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 243
+        width: 47
+        height: 38
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c7db6c9838f104bb4fb4f181cb9a7f
+      internalID: 660447009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 192
+        width: 40
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6785e8d01c1a2de4d83afc14707987ea
+      internalID: -1918817247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 187
+        width: 38
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5405cfa27f3b5b4d8040b55cf21846d
+      internalID: -1752114059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 187
+        width: 33
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c612d8803931c05499958c6245e7a686
+      internalID: -2041388122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 191
+        width: 40
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6a64e7918c3d34ebb319672f7fb34e
+      internalID: 1555169161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_23
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 188
+        width: 39
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9306ed394586194ea7b82ad66674901
+      internalID: 793070624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_24
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 188
+        width: 34
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7889ef241559d63429f2a1b6029fe3de
+      internalID: -53959184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 123
+        width: 21
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e0f0cfec7865649900612098441f38
+      internalID: 225555732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 123
+        width: 21
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e732ca398361b469fdb0b0c115f338
+      internalID: -1808168413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_27
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 127
+        width: 43
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606da63015f6a304bb84a3bbd88f7ce4
+      internalID: -2018055163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_28
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 123
+        width: 21
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b06a1fc3303f242a534e26e47f036d
+      internalID: -2050399178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 123
+        width: 35
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817b643018e01e44f9b43d1cd8a48a1b
+      internalID: 712182463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_30
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 123
+        width: 27
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cb04ca6c3f585448074cc9e3be672b
+      internalID: -488162399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_31
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 123
+        width: 27
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e336988994937074e8e37bef535336fc
+      internalID: 680287612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 60
+        width: 32
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363e57ea456aac843b0616a3f3b9d942
+      internalID: 1811490443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_33
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 60
+        width: 32
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ec2accb4b7458498754e211c942aee
+      internalID: -191654203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_34
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 60
+        width: 30
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b0499f1eec9db449570d9d0006b919
+      internalID: -1470553866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_35
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 60
+        width: 30
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8708cd024b520e34d863cf71ed12ab4d
+      internalID: -1975723229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_36
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 71
+        width: 32
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3e916fed37083449120b14fd2fa6c4
+      internalID: -152686561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_37
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 71
+        width: 32
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012034c8233642748b7f4dabe8a475b6
+      internalID: -840662444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Usopp_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 164
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c606bc0736474d748aa0894fedd12131
+      internalID: 1958762273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - One Piece - Usopp_14: -1855674965
+      Game Boy Advance - One Piece - Usopp_12: 761266387
+      Game Boy Advance - One Piece - Usopp_38: 1958762273
+      Game Boy Advance - One Piece - Usopp_6: -658839408
+      Game Boy Advance - One Piece - Usopp_9: 1478656111
+      Game Boy Advance - One Piece - Usopp_21: -2041388122
+      Game Boy Advance - One Piece - Usopp_24: -53959184
+      Game Boy Advance - One Piece - Usopp_36: -152686561
+      Game Boy Advance - One Piece - Usopp_3: -640574031
+      Game Boy Advance - One Piece - Usopp_32: 1811490443
+      Game Boy Advance - One Piece - Usopp_26: -1808168413
+      Game Boy Advance - One Piece - Usopp_2: 415600728
+      Game Boy Advance - One Piece - Usopp_1: -1197285909
+      Game Boy Advance - One Piece - Usopp_20: -1752114059
+      Game Boy Advance - One Piece - Usopp_4: -2052012636
+      Game Boy Advance - One Piece - Usopp_19: -1918817247
+      Game Boy Advance - One Piece - Usopp_29: 712182463
+      Game Boy Advance - One Piece - Usopp_25: 225555732
+      Game Boy Advance - One Piece - Usopp_22: 1555169161
+      Game Boy Advance - One Piece - Usopp_28: -2050399178
+      Game Boy Advance - One Piece - Usopp_8: 204082278
+      Game Boy Advance - One Piece - Usopp_23: 793070624
+      Game Boy Advance - One Piece - Usopp_34: -1470553866
+      Game Boy Advance - One Piece - Usopp_30: -488162399
+      Game Boy Advance - One Piece - Usopp_31: 680287612
+      Game Boy Advance - One Piece - Usopp_35: -1975723229
+      Game Boy Advance - One Piece - Usopp_5: -566883866
+      Game Boy Advance - One Piece - Usopp_33: -191654203
+      Game Boy Advance - One Piece - Usopp_10: 297400051
+      Game Boy Advance - One Piece - Usopp_27: -2018055163
+      Game Boy Advance - One Piece - Usopp_37: -840662444
+      Game Boy Advance - One Piece - Usopp_11: 4923627
+      Game Boy Advance - One Piece - Usopp_13: 827734668
+      Game Boy Advance - One Piece - Usopp_7: 1047125024
+      Game Boy Advance - One Piece - Usopp_16: 707586731
+      Game Boy Advance - One Piece - Usopp_18: 660447009
+      Game Boy Advance - One Piece - Usopp_0: 1327229468
+      Game Boy Advance - One Piece - Usopp_17: 100654325
+      Game Boy Advance - One Piece - Usopp_15: -648660490
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

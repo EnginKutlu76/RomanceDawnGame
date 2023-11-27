@@ -1,0 +1,939 @@
+fileFormatVersion: 2
+guid: 8499a51fdd627ee4292bba6b35e01a26
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 494
+        width: 31
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88819c18516f7f041a6a8c464640173a
+      internalID: -1369059588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 494
+        width: 28
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d092b661ce1af0647a129f494495481b
+      internalID: -2063545430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 494
+        width: 28
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c44bb046ae01a4bb30836357684920
+      internalID: 998057984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 494
+        width: 31
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0e7b0c9c7de1941a8e8730be917d60
+      internalID: -896674228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 494
+        width: 31
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ed23f2b58eb094c8f5972f781c1238
+      internalID: 725796452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 494
+        width: 31
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cf34b4e61166949bbe14471d7e168f
+      internalID: -1850140648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 431
+        width: 31
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e229c68a8a09184bbb9fc55572a0258
+      internalID: -1659424616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 431
+        width: 31
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390125ef9132ff641a32eb8a123a1815
+      internalID: -7850262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 50
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beba0a5f50a9ab648ac54869f25f4a61
+      internalID: 1663874925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 372
+        width: 35
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf11262d490e69941bf2f12e3e3f0302
+      internalID: 143090405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 372
+        width: 44
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c1c7d3b452d9a46b71828e2da2163c
+      internalID: 818962677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 372
+        width: 46
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4761ccb7672fce40b2ad8548c92c7b0
+      internalID: -209214180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 372
+        width: 64
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3971c7ae02947b42aec6bae561a9077
+      internalID: 808298483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 311
+        width: 61
+        height: 45
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164e796e16ed8414a946bcacb2e0a779
+      internalID: 1039269221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 311
+        width: 37
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192931217d558a24cad1606cf21acc96
+      internalID: 1516329849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_15
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 311
+        width: 37
+        height: 45
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afc4573a1d6b4c4a9d6743e1c7a6c12
+      internalID: -1281163981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 311
+        width: 46
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2e2f63711146c4f999fbd5d5bf5f9d
+      internalID: -620794469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_17
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 311
+        width: 69
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0fac0191b099d46acbb01c9b32743b
+      internalID: -2030235433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 260
+        width: 93
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3547cb074ba360948ad621c43a0c080a
+      internalID: 397202144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 260
+        width: 61
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad69085c17bc7e47b6a0006b0029c06
+      internalID: -398091532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 260
+        width: 48
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0f72c423891d64ca051611962fd215
+      internalID: -174350910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 203
+        width: 61
+        height: 45
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f28b2d56a23617478f23519ea4eb045
+      internalID: 1674192279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 203
+        width: 47
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b3e2333fa410341a5baf397409d9e4
+      internalID: 563721024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 203
+        width: 49
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5856c9850828aaa47a28a778149098e0
+      internalID: 1085743523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_24
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 203
+        width: 66
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d651d50b796c9c4a9e0fee75e47b778
+      internalID: -476967940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 138
+        width: 52
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5690b5cdab517d54c8a7f31c2a584e53
+      internalID: 1999961621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 138
+        width: 67
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727c98ae1a40cad40af85abe552c0cd3
+      internalID: 654745695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 138
+        width: 49
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc56755aedbe38a45be02302ea1ff17f
+      internalID: 127172680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 138
+        width: 48
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5744e7090e1e09f4caed72f6931881b5
+      internalID: 725879812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 69
+        width: 41
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc280b5f6955b040b0c1e9ce5183b7e
+      internalID: -2098777880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_30
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 68
+        width: 41
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ed47a221ea40d4e9a6febd112afda5
+      internalID: -627159518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_31
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 69
+        width: 41
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e735205a886c644787487788941665b
+      internalID: 248119312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_32
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 69
+        width: 40
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a98ad4417885049910a0febe112528
+      internalID: 1181667737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_33
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 35
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b312eda75d7fab4d87489327bdb34ab
+      internalID: 1909143280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 22
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dd47752ae993247b054349fced849e
+      internalID: -1362383314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Roronoa Zoro_35
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 164
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238ef32effa6b594fb0c564b3612a4d9
+      internalID: -590830059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - One Piece - Roronoa Zoro_10: 818962677
+      Game Boy Advance - One Piece - Roronoa Zoro_5: -1850140648
+      Game Boy Advance - One Piece - Roronoa Zoro_14: 1516329849
+      Game Boy Advance - One Piece - Roronoa Zoro_20: -174350910
+      Game Boy Advance - One Piece - Roronoa Zoro_31: 248119312
+      Game Boy Advance - One Piece - Roronoa Zoro_3: -896674228
+      Game Boy Advance - One Piece - Roronoa Zoro_29: -2098777880
+      Game Boy Advance - One Piece - Roronoa Zoro_33: 1909143280
+      Game Boy Advance - One Piece - Roronoa Zoro_6: -1659424616
+      Game Boy Advance - One Piece - Roronoa Zoro_9: 143090405
+      Game Boy Advance - One Piece - Roronoa Zoro_18: 397202144
+      Game Boy Advance - One Piece - Roronoa Zoro_30: -627159518
+      Game Boy Advance - One Piece - Roronoa Zoro_26: 654745695
+      Game Boy Advance - One Piece - Roronoa Zoro_25: 1999961621
+      Game Boy Advance - One Piece - Roronoa Zoro_32: 1181667737
+      Game Boy Advance - One Piece - Roronoa Zoro_7: -7850262
+      Game Boy Advance - One Piece - Roronoa Zoro_34: -1362383314
+      Game Boy Advance - One Piece - Roronoa Zoro_8: 1663874925
+      Game Boy Advance - One Piece - Roronoa Zoro_12: 808298483
+      Game Boy Advance - One Piece - Roronoa Zoro_23: 1085743523
+      Game Boy Advance - One Piece - Roronoa Zoro_15: -1281163981
+      Game Boy Advance - One Piece - Roronoa Zoro_4: 725796452
+      Game Boy Advance - One Piece - Roronoa Zoro_1: -2063545430
+      Game Boy Advance - One Piece - Roronoa Zoro_2: 998057984
+      Game Boy Advance - One Piece - Roronoa Zoro_11: -209214180
+      Game Boy Advance - One Piece - Roronoa Zoro_28: 725879812
+      Game Boy Advance - One Piece - Roronoa Zoro_13: 1039269221
+      Game Boy Advance - One Piece - Roronoa Zoro_35: -590830059
+      Game Boy Advance - One Piece - Roronoa Zoro_24: -476967940
+      Game Boy Advance - One Piece - Roronoa Zoro_27: 127172680
+      Game Boy Advance - One Piece - Roronoa Zoro_17: -2030235433
+      Game Boy Advance - One Piece - Roronoa Zoro_19: -398091532
+      Game Boy Advance - One Piece - Roronoa Zoro_0: -1369059588
+      Game Boy Advance - One Piece - Roronoa Zoro_21: 1674192279
+      Game Boy Advance - One Piece - Roronoa Zoro_22: 563721024
+      Game Boy Advance - One Piece - Roronoa Zoro_16: -620794469
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

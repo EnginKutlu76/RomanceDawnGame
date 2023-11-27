@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 47eccd4faa0297f4ca52dce2dde8b853
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 161
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bc47f043957d148b0d820cb6b471ba
+      internalID: -554666660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 178
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e058221346de11440b6d3c6f0f920df9
+      internalID: -1010713694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 174
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23928b5a5be5449429e00859b5aa8dcb
+      internalID: -1649766282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 170
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cb1f7a2e26ccd459b33cc6e16409f9
+      internalID: -1955081577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 168
+        width: 5
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff52b53a46501154ea037e443f924e4d
+      internalID: -1425439182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 87
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1398e36a2471d47a773ee04d09ef25
+      internalID: 220966228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 85
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29981b9dae11d04c81d9c0b01d7c950
+      internalID: -1464012147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 88
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0f2f8aceb1e3740a674d96755c276a
+      internalID: 1969805254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 119
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bda81370b1b30c4180b751834a3f085
+      internalID: 316842835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 120
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a4f0fbbc978dd4bbbf11af0d9a2879
+      internalID: -414619940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 121
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5733de2e25c00474595ce334972ade2a
+      internalID: -976290093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfddec77c137ae48b4a73acaa156ec1
+      internalID: 2134514431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 89
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a91b8db36dbe94f8dc2329c82b262a
+      internalID: 1102732514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 18
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2fdeca8d8bb0e40965007999713936
+      internalID: 1918956936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_4: -1425439182
+      Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_1: -1010713694
+      Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_8: 316842835
+      Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_11: 2134514431
+      Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_13: 1918956936
+      Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_3: -1955081577
+      Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_5: 220966228
+      Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_10: -976290093
+      Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_9: -414619940
+      Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_2: -1649766282
+      Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_7: 1969805254
+      Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_12: 1102732514
+      Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_0: -554666660
+      Game_Boy_Advance_-_One_Piece_-_Rope_Swinger-removebg-preview_6: -1464012147
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

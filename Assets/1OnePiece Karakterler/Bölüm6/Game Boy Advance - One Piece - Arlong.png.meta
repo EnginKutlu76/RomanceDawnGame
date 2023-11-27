@@ -1,0 +1,2149 @@
+fileFormatVersion: 2
+guid: 77aa33181da7409409522b3a182abf48
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1776
+        width: 51
+        height: 79
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5ccf338c513da4c972f2a7bf46ab54
+      internalID: 2010206458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1776
+        width: 51
+        height: 78
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3beb785fa37e34ab0524dbac9eb975
+      internalID: 343082145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1776
+        width: 19
+        height: 96
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccd2a4f67cafce49aa4564658c7322a
+      internalID: -253548142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1791
+        width: 88
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce28aaee1713ed42b09591c13e0fe25
+      internalID: -1633083620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1707
+        width: 78
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124f4c538483bb745b49b18e2965e7ea
+      internalID: -1659152234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1704
+        width: 72
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e385501c3edf9424c9cc32ef8edc5551
+      internalID: -318554351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1705
+        width: 74
+        height: 39
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dd34c99dcfcd74da0a0ada2a533fc2
+      internalID: -1903624807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1701
+        width: 74
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9143c2aa3a13914fa451dd2fd428c9e
+      internalID: 31595639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1655
+        width: 83
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dbd5b48166c324c94e647946749a8f
+      internalID: 2080738608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1656
+        width: 91
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a496d38bef13b49acaca7cdb83a4d8
+      internalID: -1376772263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1560
+        width: 47
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86da6c9b4093a5246a113dde83875aa6
+      internalID: 1942793738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1560
+        width: 47
+        height: 81
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc76a84a9f4ba9c4383c5f49bdf2c8cf
+      internalID: 2105031718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1560
+        width: 61
+        height: 84
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9378dada92f7e474eabeda368da328d9
+      internalID: -257845230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1560
+        width: 61
+        height: 83
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1282661829fbf3b45a98118b9d3b99f8
+      internalID: 1661733447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1480
+        width: 58
+        height: 66
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe22b3f7c0e5e1478857afbdd67ba5b
+      internalID: 51251775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1441
+        width: 79
+        height: 99
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3195de75d7ab3438d00cb61e51aa92
+      internalID: -1537086180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1480
+        width: 77
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8082f7d6e6f0c43b7255eab186ea69
+      internalID: -71958686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1480
+        width: 77
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548caaa08203c7849856b08ab95138bb
+      internalID: 1923655671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1440
+        width: 12
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d9630e2de84ae43b11190d6960ae40
+      internalID: -150539427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1438
+        width: 26
+        height: 27
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b651d63279bc9854dad4417b692afacf
+      internalID: 1588165671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1457
+        width: 12
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f275b8b0df92fea43878dd1cf5a7d674
+      internalID: 641177758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1441
+        width: 24
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eeed48ddaecf0449fcd30de94ebeff
+      internalID: -1060990380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1442
+        width: 18
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694cd65b076a9aa428cb4444dbc97d5f
+      internalID: -500865991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_23
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1442
+        width: 10
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4430a91cafa244044bfd93204c850da3
+      internalID: 1957920350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_24
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1418
+        width: 28
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e0b26947ad92045af7e14cebb90022
+      internalID: 1851633656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1407
+        width: 35
+        height: 38
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1db4d10e15d384db2d3053bd05af10
+      internalID: 1228621665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1434
+        width: 5
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4868e7f72d8a75c438d70bf1e94aca5f
+      internalID: -1505789481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1422
+        width: 18
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7407aa9092b72614ebddaf0ee0328a0a
+      internalID: -405584726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_28
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1426
+        width: 6
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df4be8c59935d949ab38de59d494ec4
+      internalID: -1073737894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1413
+        width: 7
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543cc755160712f4fa69fa4e75f3c31f
+      internalID: 285593044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_30
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1409
+        width: 25
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81dcbe6eaf76384d93bdd6e9ed38111
+      internalID: 550405768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1418
+        width: 19
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73873ed5aadc8704f96d01575d0c513f
+      internalID: -1368681953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_32
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1403
+        width: 14
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f64d90fff989494bbeac1d3b0a57011
+      internalID: 1705884553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1398
+        width: 6
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bddbbd0a7d7bba4a948e44968d93f35
+      internalID: 542895504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1405
+        width: 6
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b07fd32752e67142a36dad948721817
+      internalID: -1315914126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_35
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1403
+        width: 10
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e57c1b69f0e2c418418dfed3acc0c6
+      internalID: -1341390704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_36
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1405
+        width: 18
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4053a248d5cb77446b4ced6e7a3f2f44
+      internalID: 1272674592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_37
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1312
+        width: 47
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce1f51bf5e2e7547891f2011bc45d30
+      internalID: -1912218398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1312
+        width: 42
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d8e5a93301ce94083ef21c2dd54561
+      internalID: 1050309955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_39
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1312
+        width: 41
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acbdbce34fc5ae4baee854c434d8b01
+      internalID: 1875702055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_40
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1312
+        width: 46
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcc47acf3512464b8100962197e53fd
+      internalID: -665870562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_41
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1312
+        width: 74
+        height: 75
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47f6ff6cae72dd4aad757c1cc4618ff
+      internalID: -1481557883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1232
+        width: 49
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae62aa73434fe024d88b0ba3fece4f1f
+      internalID: 730881880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1232
+        width: 57
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae3b1b3ed8ccbb4b840ef5c24aab444
+      internalID: -191761281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_44
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1232
+        width: 61
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d807bf415ac834298e9c70ae598581
+      internalID: -508166186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 71
+        height: 104
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceee8a5558376b14e988f67eb3aa6d34
+      internalID: 546981956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1120
+        width: 71
+        height: 100
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd8ee1855d4956478d78d00c4d1bd60
+      internalID: 1029620121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_47
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1123
+        width: 91
+        height: 89
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99170710ee7486b419a8d3a65e6c39b0
+      internalID: -1084483517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 992
+        width: 109
+        height: 120
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770380fbb1eff9640a28c7020ebc0541
+      internalID: -1466438448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 993
+        width: 112
+        height: 95
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0229c48b4177a8d4ea07b49a01e622f8
+      internalID: -1775226094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_50
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1028
+        width: 4
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ba11d278011a74ea7bad64baff34ad
+      internalID: -350103025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_51
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1015
+        width: 17
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0e2ceba8fb0ec4ca33225d1f16d9b6
+      internalID: 1516414431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_52
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 992
+        width: 91
+        height: 97
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894babf504fb68847aa536a3d1e61ecb
+      internalID: 600567214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_53
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1010
+        width: 5
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b074132a81f539f47a3568f45435ff89
+      internalID: 2036659417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_54
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1000
+        width: 19
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737b391837c61a74484cef1888f6cb54
+      internalID: 2102944548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_55
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 872
+        width: 81
+        height: 98
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0146349121c1d69458417bda5a2d3dc6
+      internalID: 1426827766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_56
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 865
+        width: 107
+        height: 102
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989f9be632dcead4eb74a6de00e6162c
+      internalID: -1203331232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_57
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 862
+        width: 106
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e79833cb88a10408e44ed867ecd149
+      internalID: -1969311760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 754
+        width: 71
+        height: 103
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8b8f2fe2af5e04c9aaec21674c67ce
+      internalID: 2034699197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_59
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 672
+        width: 53
+        height: 39
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd4cd8f0789be84ea76a8a8aec6208b
+      internalID: -1048664956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_60
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 672
+        width: 55
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36278323dca24f14aa20c31c933ee733
+      internalID: -847224463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_61
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 672
+        width: 50
+        height: 66
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcf80935ede5ca4c914005673410b48
+      internalID: -740494370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_62
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 672
+        width: 48
+        height: 82
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a035d78ddd8337643a2fb2a251292bdd
+      internalID: 2072416549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_63
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 592
+        width: 91
+        height: 39
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a573c4d0ab67b42957f10886fa1e76
+      internalID: -2014698075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_64
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 592
+        width: 91
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678e8aca252a4614c8f0bad8d73133e9
+      internalID: -2136556531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_65
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 592
+        width: 85
+        height: 78
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d1238b73ed80649bfeb33135157bfb
+      internalID: 1018244323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_66
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 495
+        width: 70
+        height: 76
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb70530cb66f814a8e7b643185bcef7
+      internalID: -1567425993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_67
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 488
+        width: 24
+        height: 96
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28893c5650cbb4c43a9df0db8d359202
+      internalID: -2011890776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_68
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 488
+        width: 24
+        height: 96
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232d107aa8d67dd449f6e3229f862658
+      internalID: 1902155389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_69
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 488
+        width: 24
+        height: 96
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b227d2f96c8931243a5b825d50f652e0
+      internalID: 1107215099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_70
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 488
+        width: 65
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3ac4d7a6aa02340887aed250f167a6
+      internalID: 1307987246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_71
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 488
+        width: 8
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a635083369af964cb424bc6ae7f8156
+      internalID: -1788708860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 444
+        width: 25
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9deb4a18abc664e8ffefb15b914b79
+      internalID: -867383588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_73
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 441
+        width: 45
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae4e0e59c258174aa5b46230b9b1423
+      internalID: -1660388848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_74
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 441
+        width: 57
+        height: 38
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7d5ada6557b19489ba4c210c594c48
+      internalID: 1624477888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_75
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 440
+        width: 58
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cba754e72bb0545a765889f9c84f41
+      internalID: 394940455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_76
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 440
+        width: 58
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56953134609ebf44ea2f74fc484cc58f
+      internalID: 1534410581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_77
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 344
+        width: 44
+        height: 81
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93622c504e408fe4baebcaf5516f465d
+      internalID: -889578629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_78
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 344
+        width: 47
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfe1d31494a01f42baa0c8baad11114
+      internalID: -1344864367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_79
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 344
+        width: 47
+        height: 81
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09f28d9ad8c14d488f41b50cd389007
+      internalID: 1505534904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 74
+        height: 73
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9470d50cc5242248b8e899402fa2dda
+      internalID: -1827810810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_81
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 266
+        width: 75
+        height: 66
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd092f2b2b6094f4081b780a505ad72a
+      internalID: 1780676806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_82
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 184
+        width: 86
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56728fb36937fbf4d9a9bcfd89e5dc06
+      internalID: -990544826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_83
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 184
+        width: 86
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940ff23936099a34e863917f86a0969c
+      internalID: 867069176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_84
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 184
+        width: 86
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c460625a1c6df498da4ebe5b77f192
+      internalID: 1912168019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_85
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 126
+        width: 53
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8b6d6e48f85f4498429483ed7482c0
+      internalID: -1906036782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_86
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 132
+        width: 28
+        height: 37
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abb51c253bf7904d87f76318eaf2787
+      internalID: 372247001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_87
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 137
+        width: 19
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c32e5457bc3f84da4d2951c8627185
+      internalID: 1458932926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_88
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 48
+        width: 44
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57bbece90826c54a8abca962cdcf363
+      internalID: -457261523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_89
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 48
+        width: 39
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed58863e50cc9494081ebb450bc57b7e
+      internalID: 45709323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Arlong_90
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 57
+        width: 164
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1aad360af341b42a86fb938a01bba0
+      internalID: 1315634639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - One Piece - Arlong_65: 1018244323
+      Game Boy Advance - One Piece - Arlong_50: -350103025
+      Game Boy Advance - One Piece - Arlong_78: -1344864367
+      Game Boy Advance - One Piece - Arlong_81: 1780676806
+      Game Boy Advance - One Piece - Arlong_74: 1624477888
+      Game Boy Advance - One Piece - Arlong_57: -1969311760
+      Game Boy Advance - One Piece - Arlong_26: -1505789481
+      Game Boy Advance - One Piece - Arlong_32: 1705884553
+      Game Boy Advance - One Piece - Arlong_24: 1851633656
+      Game Boy Advance - One Piece - Arlong_67: -2011890776
+      Game Boy Advance - One Piece - Arlong_30: 550405768
+      Game Boy Advance - One Piece - Arlong_49: -1775226094
+      Game Boy Advance - One Piece - Arlong_23: 1957920350
+      Game Boy Advance - One Piece - Arlong_9: -1376772263
+      Game Boy Advance - One Piece - Arlong_27: -405584726
+      Game Boy Advance - One Piece - Arlong_68: 1902155389
+      Game Boy Advance - One Piece - Arlong_90: 1315634639
+      Game Boy Advance - One Piece - Arlong_40: -665870562
+      Game Boy Advance - One Piece - Arlong_69: 1107215099
+      Game Boy Advance - One Piece - Arlong_58: 2034699197
+      Game Boy Advance - One Piece - Arlong_79: 1505534904
+      Game Boy Advance - One Piece - Arlong_42: 730881880
+      Game Boy Advance - One Piece - Arlong_4: -1659152234
+      Game Boy Advance - One Piece - Arlong_15: -1537086180
+      Game Boy Advance - One Piece - Arlong_10: 1942793738
+      Game Boy Advance - One Piece - Arlong_37: -1912218398
+      Game Boy Advance - One Piece - Arlong_73: -1660388848
+      Game Boy Advance - One Piece - Arlong_20: 641177758
+      Game Boy Advance - One Piece - Arlong_83: 867069176
+      Game Boy Advance - One Piece - Arlong_35: -1341390704
+      Game Boy Advance - One Piece - Arlong_16: -71958686
+      Game Boy Advance - One Piece - Arlong_13: 1661733447
+      Game Boy Advance - One Piece - Arlong_43: -191761281
+      Game Boy Advance - One Piece - Arlong_59: -1048664956
+      Game Boy Advance - One Piece - Arlong_75: 394940455
+      Game Boy Advance - One Piece - Arlong_84: 1912168019
+      Game Boy Advance - One Piece - Arlong_87: 1458932926
+      Game Boy Advance - One Piece - Arlong_45: 546981956
+      Game Boy Advance - One Piece - Arlong_44: -508166186
+      Game Boy Advance - One Piece - Arlong_62: 2072416549
+      Game Boy Advance - One Piece - Arlong_55: 1426827766
+      Game Boy Advance - One Piece - Arlong_86: 372247001
+      Game Boy Advance - One Piece - Arlong_82: -990544826
+      Game Boy Advance - One Piece - Arlong_54: 2102944548
+      Game Boy Advance - One Piece - Arlong_66: -1567425993
+      Game Boy Advance - One Piece - Arlong_11: 2105031718
+      Game Boy Advance - One Piece - Arlong_38: 1050309955
+      Game Boy Advance - One Piece - Arlong_31: -1368681953
+      Game Boy Advance - One Piece - Arlong_89: 45709323
+      Game Boy Advance - One Piece - Arlong_85: -1906036782
+      Game Boy Advance - One Piece - Arlong_60: -847224463
+      Game Boy Advance - One Piece - Arlong_88: -457261523
+      Game Boy Advance - One Piece - Arlong_29: 285593044
+      Game Boy Advance - One Piece - Arlong_51: 1516414431
+      Game Boy Advance - One Piece - Arlong_3: -1633083620
+      Game Boy Advance - One Piece - Arlong_36: 1272674592
+      Game Boy Advance - One Piece - Arlong_41: -1481557883
+      Game Boy Advance - One Piece - Arlong_64: -2136556531
+      Game Boy Advance - One Piece - Arlong_2: -253548142
+      Game Boy Advance - One Piece - Arlong_6: -1903624807
+      Game Boy Advance - One Piece - Arlong_0: 2010206458
+      Game Boy Advance - One Piece - Arlong_63: -2014698075
+      Game Boy Advance - One Piece - Arlong_77: -889578629
+      Game Boy Advance - One Piece - Arlong_47: -1084483517
+      Game Boy Advance - One Piece - Arlong_39: 1875702055
+      Game Boy Advance - One Piece - Arlong_70: 1307987246
+      Game Boy Advance - One Piece - Arlong_61: -740494370
+      Game Boy Advance - One Piece - Arlong_46: 1029620121
+      Game Boy Advance - One Piece - Arlong_12: -257845230
+      Game Boy Advance - One Piece - Arlong_14: 51251775
+      Game Boy Advance - One Piece - Arlong_25: 1228621665
+      Game Boy Advance - One Piece - Arlong_71: -1788708860
+      Game Boy Advance - One Piece - Arlong_17: 1923655671
+      Game Boy Advance - One Piece - Arlong_76: 1534410581
+      Game Boy Advance - One Piece - Arlong_80: -1827810810
+      Game Boy Advance - One Piece - Arlong_48: -1466438448
+      Game Boy Advance - One Piece - Arlong_28: -1073737894
+      Game Boy Advance - One Piece - Arlong_72: -867383588
+      Game Boy Advance - One Piece - Arlong_8: 2080738608
+      Game Boy Advance - One Piece - Arlong_18: -150539427
+      Game Boy Advance - One Piece - Arlong_21: -1060990380
+      Game Boy Advance - One Piece - Arlong_53: 2036659417
+      Game Boy Advance - One Piece - Arlong_22: -500865991
+      Game Boy Advance - One Piece - Arlong_56: -1203331232
+      Game Boy Advance - One Piece - Arlong_34: -1315914126
+      Game Boy Advance - One Piece - Arlong_19: 1588165671
+      Game Boy Advance - One Piece - Arlong_33: 542895504
+      Game Boy Advance - One Piece - Arlong_52: 600567214
+      Game Boy Advance - One Piece - Arlong_1: 343082145
+      Game Boy Advance - One Piece - Arlong_5: -318554351
+      Game Boy Advance - One Piece - Arlong_7: 31595639
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

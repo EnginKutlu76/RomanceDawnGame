@@ -1,0 +1,2545 @@
+fileFormatVersion: 2
+guid: 2810f445b11ca8c44ab15b0f3532a1c4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1184
+        width: 39
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9c45e8fe0bc67488d062dd3e9e8099
+      internalID: 1105279728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1184
+        width: 44
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acb65b242eecd943b1a4bf0fff7c455
+      internalID: 590543268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1184
+        width: 43
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f2ddcb2d3e54747a64fafd9b44e5fa
+      internalID: -248204801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1199
+        width: 30
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126434c40e59f3b4fa84e9a79459d894
+      internalID: -1373063993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1184
+        width: 88
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc66607877a813d419cdb9d0838dd764
+      internalID: -1955805879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1120
+        width: 41
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55714a8855dcafe4c9fbb7680c5c9507
+      internalID: -51544120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1120
+        width: 38
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31932ed7e422154e869b09c8425ee32
+      internalID: 2020019759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1120
+        width: 38
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a0034ba7596ef4999cad880615000a
+      internalID: 1071394634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1120
+        width: 40
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471a10cefdaae05448e71206ade23415
+      internalID: 1382523621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1048
+        width: 49
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12826f9f30ca2a146b652f8b33d28883
+      internalID: -950336941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1048
+        width: 49
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dbcc1c8d5feb9408473538323fbda9
+      internalID: 2128021869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 984
+        width: 44
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14085be5dcb4ec4d8c5b0cc30b42481
+      internalID: -1723260963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 984
+        width: 40
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b17d42c68a37d448f3ec370fab4081
+      internalID: 684649234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1011
+        width: 17
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf1009fae3faab4a872530cd72e38ad
+      internalID: -941361246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1011
+        width: 24
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec31d279d43a35499685aa96fad1f7f
+      internalID: -920673960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 984
+        width: 51
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40187c97ce0f84344b0b89f66c7f2107
+      internalID: -229023462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_16
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 984
+        width: 77
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155d522e339712746ba95220aa6c929f
+      internalID: -288610230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 920
+        width: 73
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bc36d7c19dac843a4dfb72fc1cb0da
+      internalID: 1571311936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 920
+        width: 47
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0805557c1e4a47b4199c2b721c15de3a
+      internalID: -759772659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 920
+        width: 50
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31552f143bcd0e41b0fbf0f540e1802
+      internalID: -1494821770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 941
+        width: 24
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c672b28507a3c498e47e9098e3b8d6
+      internalID: 181850217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 898
+        width: 11
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a45e5ef9f8d3dc46ba011fe94ee076c
+      internalID: 833315331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 848
+        width: 56
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76173a82c855cc48a7e692ed9e68e8d
+      internalID: 1426469019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 848
+        width: 23
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a983f7b9bbacbf544932116302973b85
+      internalID: -1517738771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 866
+        width: 9
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6dad4384e36a44b97886e39cab7bf3
+      internalID: -1172551374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 848
+        width: 45
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105daffeb7e73a84cbd580e2c326f191
+      internalID: -2119327002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 802
+        width: 49
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c035857c36e8d954b85acadf619df38b
+      internalID: 1504575118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 802
+        width: 48
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9ad4599a911624c890e0f0d841d41d
+      internalID: -1038656331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_28
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 802
+        width: 47
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd08a0482caad494082d5cc07dcd71bc
+      internalID: -643267228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_29
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 802
+        width: 45
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40549eacff2bc2f48a7c2eb81b129c82
+      internalID: 1334245898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 49
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598603c20cc13d44ab8cc6085fe5c968
+      internalID: -432167154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_31
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 728
+        width: 59
+        height: 69
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2125dd72040fbf04ea8806ada0ad4b65
+      internalID: 337533078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 722
+        width: 77
+        height: 68
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727cc311220dcfc4e93b06d240e1e35b
+      internalID: -1838559141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 662
+        width: 58
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0f02a5bdc641541a9af2141edc1fe2
+      internalID: -198796532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 660
+        width: 60
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f0b83df5710ca4f887b302a45a937d
+      internalID: 564719253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 616
+        width: 69
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e62b7942066be14f8fa64ed42834f0c
+      internalID: 944670925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 617
+        width: 69
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a855ee33fed804d43a5af4e802f6c2da
+      internalID: -838628862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 618
+        width: 70
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bca54d00a5a3454799a966ffcbba452
+      internalID: -819563561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 563
+        width: 62
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53039cb7fa8cf0f488de67f51f6df5c1
+      internalID: -1091405625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 563
+        width: 60
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d95d20013e8d5439b2969f4d789f01
+      internalID: 789906082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_40
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 562
+        width: 72
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60f2ac760fc9414aae5535d9f28419f
+      internalID: 537484107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 504
+        width: 60
+        height: 45
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71417ac5ccb19a468599b02ffc8d3df
+      internalID: 356605992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_42
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 505
+        width: 57
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb8ca133258ed843b687ed4da8d4a51
+      internalID: -1758486965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 505
+        width: 59
+        height: 45
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de52520f75e898542a116c7a66eae4e5
+      internalID: -883356942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 456
+        width: 62
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb31b8056d8a5f4692734c2d4050d04
+      internalID: -301000857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_45
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 456
+        width: 62
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a6661b5d2425444bc45acb34f6a000
+      internalID: 776250625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_46
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 456
+        width: 62
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22c25717ec75e048bce3fdfa5c10e10
+      internalID: 1910850623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_47
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 456
+        width: 62
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387361cdee0226143b4b515b59ad4b80
+      internalID: 950734043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 408
+        width: 55
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920b552250e526a499e25f29cc117fc3
+      internalID: -1439117191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_49
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 408
+        width: 50
+        height: 37
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4f0b4ee55fc3e4b9150bd215007eb5
+      internalID: 1968053902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa37b3fa4f2e3742a2cfd8180cd71fe
+      internalID: -2079202641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_51
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 416
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48710337f57171e42a7021b1d1644702
+      internalID: -1599288588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 371
+        width: 22
+        height: 25
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3af42eb91f11e4a92e91ebfc454d93
+      internalID: 1587907692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_53
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 370
+        width: 22
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eda0f8dfd94d74abca7d20b238f42e
+      internalID: -2062455120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_54
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 372
+        width: 26
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b199924445bd14c4fbb3676d9db8b6e2
+      internalID: -168269143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_55
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 377
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad783280c5caea148b168cabaa98e801
+      internalID: -1210972836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_56
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 377
+        width: 13
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a8fb214ed199f4c92bbd0978a7515c
+      internalID: 313859890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_57
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 379
+        width: 12
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e8fea0ebd57ae4a84521e7c64e0ea5
+      internalID: -1861489712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_58
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 378
+        width: 11
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1739d7d8f1263bb4ba86ee95c41235cb
+      internalID: 328760081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_59
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 378
+        width: 13
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d6da490140ba643b6b6bb969e9a657
+      internalID: -715123753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_60
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 378
+        width: 14
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2779555914179e4da6cc2bc3afe6209
+      internalID: 2098579376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_61
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 355
+        width: 8
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455b83faf9c6d40479d5d00e84468d9c
+      internalID: -862572768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_62
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 355
+        width: 7
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994bc0800167771498c3c71ec591b239
+      internalID: -303449308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_63
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 354
+        width: 9
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e150f6bd9f0ea9c45a32a63b743dd74a
+      internalID: 1330612761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_64
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 354
+        width: 10
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d088ac4cc0e5974ba2f2efb3d5216b1
+      internalID: 333646423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_65
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 355
+        width: 9
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c83a5653f4ba045a54ec28fa276c63
+      internalID: 306628279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_66
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 355
+        width: 9
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169dcd07cec600c4789eb9640012a9e3
+      internalID: -678663934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_67
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 354
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e38c44cbd8abb44a598747abc3af29
+      internalID: -1894915588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_68
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 354
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051eaef1a737ce447aa6cc86f30751b7
+      internalID: -1040224834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_69
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 320
+        width: 22
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5411aa21499cee340a49725b086d0f68
+      internalID: -1734630147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_70
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 324
+        width: 12
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd889825a833aa41a4aed7012b8f2a8
+      internalID: -1859096485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_71
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 321
+        width: 10
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afff6100672cd694eaeceeb698c5a5dd
+      internalID: -2128750565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_72
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 318
+        width: 29
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5345d3f51749626429da3f2627471af0
+      internalID: -1027104296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_73
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 313
+        width: 22
+        height: 38
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8e3be6a28e07442ae68bb76929de64
+      internalID: -1669735317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_74
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 312
+        width: 41
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a396c947c1b7fb64ab8639d9fe20c647
+      internalID: 219950675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_75
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 312
+        width: 50
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0eafd3579d89c46ad936a19f44da7c
+      internalID: 83354192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_76
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 288
+        width: 67
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2076c0e411e0a164b901ae7f0120bb0e
+      internalID: 1751400596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 34
+        height: 27
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c13eb0aaca84d48aa7075c1b6fe888
+      internalID: 390168234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_78
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 257
+        width: 14
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a8332ba528230489e19e7383bf89bf
+      internalID: 1758939297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_79
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 257
+        width: 13
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d285299ea107d4381ac6c33a7d3302
+      internalID: -662431306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_80
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 258
+        width: 11
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ec866da444f4249a02df32d332dfba
+      internalID: 566874319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_81
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 259
+        width: 10
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b766d82bc14e567478271bd9e666384e
+      internalID: 1789126446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_82
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 259
+        width: 9
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b263b60934fbd1449917b3a4cdcf1bd2
+      internalID: 96028029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_83
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 258
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7bf57761e8c5e4b89e31d17021a0f3
+      internalID: -1600583033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_84
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 259
+        width: 9
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d8f21f1a94cd04ea81338ae947d519
+      internalID: 1097820378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_85
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 258
+        width: 11
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28513b5b0d27c094e910e99e0630c232
+      internalID: -1113108788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_86
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 257
+        width: 8
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1872d5c976787c54a92c8ab95c79b503
+      internalID: 1058375005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_87
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 214
+        width: 56
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f913549089b9c7c439f765aa50372a55
+      internalID: -1514033943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_88
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 213
+        width: 55
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc2774f5a41b9d4ba1dd4614645baf0
+      internalID: -1992804331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_89
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 213
+        width: 54
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a79d48c1bafed4a9943c1a7136f05d
+      internalID: -489015732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 184
+        width: 25
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae46ac880b7ea90429ce90e3024cc2e3
+      internalID: -928259720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_91
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 182
+        width: 25
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89c7652f6b0c364dbc7d718f14ddb39
+      internalID: 30854290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_92
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 181
+        width: 25
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a56e380c4a9d64e94bb5e6841860c4
+      internalID: 1423251121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_93
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 181
+        width: 25
+        height: 24
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4588afa41bd0de49b0a39317d987822
+      internalID: -1775656519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_94
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 181
+        width: 32
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7a9b2de75e9e2439e648880a564229
+      internalID: 650612289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_95
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 181
+        width: 31
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d00204a05bd5b44b5ad7aa7826f64b
+      internalID: 1064984765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_96
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 153
+        width: 24
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5a62f7cf35c9047950f1d16df034af
+      internalID: -1733164701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_97
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 149
+        width: 27
+        height: 21
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2f65922e9af2d49a1f10e92370703a
+      internalID: 347250703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_98
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 129
+        width: 12
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb45c90c1233514797078333a6193c2
+      internalID: 1811184869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_99
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 128
+        width: 7
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1efa80646f71841b76a08690d51f5b
+      internalID: -843985441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_100
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 128
+        width: 17
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5e74db054094a4d8aa746da912d1b7
+      internalID: -1432681520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_101
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 128
+        width: 22
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af50f7a84c383b24d813f97561ed60ac
+      internalID: -1625928639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_102
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 129
+        width: 18
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b2575886369e847b19165a011c9b6a
+      internalID: 226528941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_103
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 129
+        width: 16
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a273add216b01144b7db965f95caa20
+      internalID: 631234584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_104
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 129
+        width: 22
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193014080810f7147bbaf5069f1f40d4
+      internalID: -384942897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_105
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 128
+        width: 13
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda736c0543b97d42a05e256b98e6964
+      internalID: 300891664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_106
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 94
+        width: 49
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4675d1a36fc824b80f81a5b657def1
+      internalID: -1716693769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 98
+        width: 46
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15c7b5361b0aa34bb24a19cc988cef4
+      internalID: 363439775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Buggy_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 164
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befde54591467ff4d93102cbfd39c101
+      internalID: -576834472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - One Piece - Buggy_108: -576834472
+      Game Boy Advance - One Piece - Buggy_0: 1105279728
+      Game Boy Advance - One Piece - Buggy_82: 96028029
+      Game Boy Advance - One Piece - Buggy_58: 328760081
+      Game Boy Advance - One Piece - Buggy_65: 306628279
+      Game Boy Advance - One Piece - Buggy_7: 1071394634
+      Game Boy Advance - One Piece - Buggy_18: -759772659
+      Game Boy Advance - One Piece - Buggy_2: -248204801
+      Game Boy Advance - One Piece - Buggy_34: 564719253
+      Game Boy Advance - One Piece - Buggy_26: 1504575118
+      Game Boy Advance - One Piece - Buggy_85: -1113108788
+      Game Boy Advance - One Piece - Buggy_76: 1751400596
+      Game Boy Advance - One Piece - Buggy_87: -1514033943
+      Game Boy Advance - One Piece - Buggy_24: -1172551374
+      Game Boy Advance - One Piece - Buggy_44: -301000857
+      Game Boy Advance - One Piece - Buggy_47: 950734043
+      Game Boy Advance - One Piece - Buggy_98: 1811184869
+      Game Boy Advance - One Piece - Buggy_105: 300891664
+      Game Boy Advance - One Piece - Buggy_90: -928259720
+      Game Boy Advance - One Piece - Buggy_42: -1758486965
+      Game Boy Advance - One Piece - Buggy_37: -819563561
+      Game Boy Advance - One Piece - Buggy_83: -1600583033
+      Game Boy Advance - One Piece - Buggy_86: 1058375005
+      Game Boy Advance - One Piece - Buggy_102: 226528941
+      Game Boy Advance - One Piece - Buggy_40: 537484107
+      Game Boy Advance - One Piece - Buggy_69: -1734630147
+      Game Boy Advance - One Piece - Buggy_3: -1373063993
+      Game Boy Advance - One Piece - Buggy_41: 356605992
+      Game Boy Advance - One Piece - Buggy_49: 1968053902
+      Game Boy Advance - One Piece - Buggy_5: -51544120
+      Game Boy Advance - One Piece - Buggy_56: 313859890
+      Game Boy Advance - One Piece - Buggy_8: 1382523621
+      Game Boy Advance - One Piece - Buggy_10: 2128021869
+      Game Boy Advance - One Piece - Buggy_95: 1064984765
+      Game Boy Advance - One Piece - Buggy_84: 1097820378
+      Game Boy Advance - One Piece - Buggy_94: 650612289
+      Game Boy Advance - One Piece - Buggy_68: -1040224834
+      Game Boy Advance - One Piece - Buggy_80: 566874319
+      Game Boy Advance - One Piece - Buggy_30: -432167154
+      Game Boy Advance - One Piece - Buggy_103: 631234584
+      Game Boy Advance - One Piece - Buggy_104: -384942897
+      Game Boy Advance - One Piece - Buggy_4: -1955805879
+      Game Boy Advance - One Piece - Buggy_74: 219950675
+      Game Boy Advance - One Piece - Buggy_9: -950336941
+      Game Boy Advance - One Piece - Buggy_35: 944670925
+      Game Boy Advance - One Piece - Buggy_106: -1716693769
+      Game Boy Advance - One Piece - Buggy_93: -1775656519
+      Game Boy Advance - One Piece - Buggy_107: 363439775
+      Game Boy Advance - One Piece - Buggy_88: -1992804331
+      Game Boy Advance - One Piece - Buggy_71: -2128750565
+      Game Boy Advance - One Piece - Buggy_46: 1910850623
+      Game Boy Advance - One Piece - Buggy_57: -1861489712
+      Game Boy Advance - One Piece - Buggy_22: 1426469019
+      Game Boy Advance - One Piece - Buggy_77: 390168234
+      Game Boy Advance - One Piece - Buggy_6: 2020019759
+      Game Boy Advance - One Piece - Buggy_27: -1038656331
+      Game Boy Advance - One Piece - Buggy_28: -643267228
+      Game Boy Advance - One Piece - Buggy_66: -678663934
+      Game Boy Advance - One Piece - Buggy_43: -883356942
+      Game Boy Advance - One Piece - Buggy_55: -1210972836
+      Game Boy Advance - One Piece - Buggy_33: -198796532
+      Game Boy Advance - One Piece - Buggy_79: -662431306
+      Game Boy Advance - One Piece - Buggy_45: 776250625
+      Game Boy Advance - One Piece - Buggy_29: 1334245898
+      Game Boy Advance - One Piece - Buggy_101: -1625928639
+      Game Boy Advance - One Piece - Buggy_14: -920673960
+      Game Boy Advance - One Piece - Buggy_51: -1599288588
+      Game Boy Advance - One Piece - Buggy_1: 590543268
+      Game Boy Advance - One Piece - Buggy_15: -229023462
+      Game Boy Advance - One Piece - Buggy_19: -1494821770
+      Game Boy Advance - One Piece - Buggy_17: 1571311936
+      Game Boy Advance - One Piece - Buggy_12: 684649234
+      Game Boy Advance - One Piece - Buggy_32: -1838559141
+      Game Boy Advance - One Piece - Buggy_48: -1439117191
+      Game Boy Advance - One Piece - Buggy_91: 30854290
+      Game Boy Advance - One Piece - Buggy_39: 789906082
+      Game Boy Advance - One Piece - Buggy_61: -862572768
+      Game Boy Advance - One Piece - Buggy_97: 347250703
+      Game Boy Advance - One Piece - Buggy_81: 1789126446
+      Game Boy Advance - One Piece - Buggy_31: 337533078
+      Game Boy Advance - One Piece - Buggy_63: 1330612761
+      Game Boy Advance - One Piece - Buggy_36: -838628862
+      Game Boy Advance - One Piece - Buggy_54: -168269143
+      Game Boy Advance - One Piece - Buggy_62: -303449308
+      Game Boy Advance - One Piece - Buggy_75: 83354192
+      Game Boy Advance - One Piece - Buggy_96: -1733164701
+      Game Boy Advance - One Piece - Buggy_20: 181850217
+      Game Boy Advance - One Piece - Buggy_38: -1091405625
+      Game Boy Advance - One Piece - Buggy_70: -1859096485
+      Game Boy Advance - One Piece - Buggy_60: 2098579376
+      Game Boy Advance - One Piece - Buggy_23: -1517738771
+      Game Boy Advance - One Piece - Buggy_11: -1723260963
+      Game Boy Advance - One Piece - Buggy_72: -1027104296
+      Game Boy Advance - One Piece - Buggy_99: -843985441
+      Game Boy Advance - One Piece - Buggy_21: 833315331
+      Game Boy Advance - One Piece - Buggy_67: -1894915588
+      Game Boy Advance - One Piece - Buggy_64: 333646423
+      Game Boy Advance - One Piece - Buggy_89: -489015732
+      Game Boy Advance - One Piece - Buggy_92: 1423251121
+      Game Boy Advance - One Piece - Buggy_78: 1758939297
+      Game Boy Advance - One Piece - Buggy_53: -2062455120
+      Game Boy Advance - One Piece - Buggy_100: -1432681520
+      Game Boy Advance - One Piece - Buggy_50: -2079202641
+      Game Boy Advance - One Piece - Buggy_52: 1587907692
+      Game Boy Advance - One Piece - Buggy_59: -715123753
+      Game Boy Advance - One Piece - Buggy_16: -288610230
+      Game Boy Advance - One Piece - Buggy_13: -941361246
+      Game Boy Advance - One Piece - Buggy_25: -2119327002
+      Game Boy Advance - One Piece - Buggy_73: -1669735317
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

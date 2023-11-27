@@ -1,0 +1,1467 @@
+fileFormatVersion: 2
+guid: b8b0c508655f383479156a68e5f47f03
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 529
+        width: 34
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2360a1a7a26cfd4e8d36f1bb473eed5
+      internalID: -1764742314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 528
+        width: 29
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03308446a925b6a4ea6e6884bfe23e0b
+      internalID: -612119001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 528
+        width: 26
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c561738b2e308545a6062802f09ad85
+      internalID: -1933095627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 528
+        width: 38
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8895f6356dcaaa24a9a42010821e021c
+      internalID: -1877207644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 529
+        width: 43
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eaa7c0c6574bf448fa257e5843e3b1
+      internalID: 1136456584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 529
+        width: 51
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f728c408929fc45aece1fbe488990e
+      internalID: -1689493959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 460
+        width: 34
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80427b5b166daa3419bf27c502e50de2
+      internalID: 447763764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 486
+        width: 21
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f3468b81ecc3848807265f2b4472dd
+      internalID: 1558962306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 459
+        width: 37
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c54b763478d7c7469c8d03ddee67c38
+      internalID: 585282524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 459
+        width: 51
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33586f491ad1f224a98bb2ebc03eb1ab
+      internalID: 1072651864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 394
+        width: 27
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7afdadf88371646acc75d97fab78ca
+      internalID: 1707951682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 422
+        width: 29
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4729470890821f04da4dfb8f27f2652e
+      internalID: 752628902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 423
+        width: 22
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2962b09b1072d4d4ea6aac88eaa85d72
+      internalID: 564594787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 393
+        width: 44
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69fbdd6226cf1c45a888d49459f31d2
+      internalID: -2072362891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 393
+        width: 64
+        height: 38
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba025aedab0069146afe51f3cafe0fa9
+      internalID: 179862887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_15
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 394
+        width: 44
+        height: 39
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be0c4f5b4d752046aabf2e38ec241d1
+      internalID: -280478202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 394
+        width: 59
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6640dda45be92304e8a084d912ef0c59
+      internalID: 1809820732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 37
+        height: 36
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcb7f1c50d7efa4b8b3c9bdfd5cb44c
+      internalID: -2055246153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 325
+        width: 33
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52326fa45d082a449acf13ec2520627c
+      internalID: -320517125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 350
+        width: 15
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2997eede413f3174eab27551bfaf099c
+      internalID: 1604888787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_20
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 325
+        width: 37
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d877a835a343314ab66e8d4d898ce1d
+      internalID: 1276411871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 325
+        width: 51
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bd1161842e6cb4588a6d2127a05ea9
+      internalID: -539747563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 325
+        width: 36
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e9e305ed844b547b571bc4fd400b92
+      internalID: -574297931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 325
+        width: 29
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7ae1eefa835c64cb0985a18359bebf
+      internalID: -1217757335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_24
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 326
+        width: 47
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1e572d59dd21549bcefade4d641efa
+      internalID: 1149054453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 324
+        width: 30
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06684cda70048404f8f8441922e58577
+      internalID: -243915770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 324
+        width: 36
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9035291234cc94997d918ef17687be
+      internalID: 183262025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 324
+        width: 52
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a15e93769f495d4488b932ee6a7ac99
+      internalID: -1515305546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_28
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 324
+        width: 43
+        height: 45
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b97b375a88c0e48837d70c249214af
+      internalID: 1720016102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 247
+        width: 34
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c4f2b38e9bf9441b7bb61007ae5964
+      internalID: 331792387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_30
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 247
+        width: 42
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f413cbf0ddacb4cb479bc4a0b72ee1
+      internalID: -1955168069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_31
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 247
+        width: 45
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005e5c9c95631b343995769dcbbe7eb4
+      internalID: -755658974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_32
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 246
+        width: 43
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5630ca85866f0b748959763d8caa7d31
+      internalID: -714558463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 301
+        width: 4
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ffaa37386cfe54f86be55817568be3
+      internalID: 498839558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_34
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 246
+        width: 48
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f6b77d0569ec74dae5bd31de025317
+      internalID: -46681074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_35
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 250
+        width: 28
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96fc2e72094ece49b8d52c7db9179c9
+      internalID: -2131958723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_36
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 246
+        width: 30
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbfa4b31b16ceb418d373b0c6ae6a92
+      internalID: -516532244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_37
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 247
+        width: 32
+        height: 38
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e83b71e2f1b84468a1d09291348563
+      internalID: -196649066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_38
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 248
+        width: 26
+        height: 39
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1630390c02a05004abcf738248ad4e9f
+      internalID: -584140877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_39
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 248
+        width: 23
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd2b0fe82aa91f4b9417241d09909a1
+      internalID: 439888974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_40
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 247
+        width: 22
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4388f87a0f76cd54abf9f104295ecc11
+      internalID: -1745179020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 181
+        width: 18
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed72b72969814364ab9e05b7a8d6c128
+      internalID: 305706152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 181
+        width: 18
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8005ad479ea53d0499a7de9554d003a1
+      internalID: -979096383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_43
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 181
+        width: 22
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d245a8fa4e02e48becf0f9f299b4c8
+      internalID: 509024971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_44
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 181
+        width: 23
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab317ad662cd784b9f9932d9f7ddca9
+      internalID: -1913307882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_45
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 181
+        width: 19
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ca9d9848e45d643b22cf74ff5236bd
+      internalID: -407681633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_46
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 181
+        width: 18
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9627161269150884c90011c8448fcdcd
+      internalID: -264747269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_47
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 117
+        width: 24
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178b3f64a0508434883bbfdd28c0bd4e
+      internalID: 1061836517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_48
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 117
+        width: 24
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495c98dfa61ce2448a6e61b56f5bdc80
+      internalID: 540515664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_49
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 117
+        width: 24
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d0b9d9f68ff0a4d872782060199c3e
+      internalID: -757712215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_50
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 117
+        width: 26
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2b21669c9fcee46807c6cf9fed4567
+      internalID: -674229472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_51
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 117
+        width: 36
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1919e7f4d3a884c9125bffe6d10b8e
+      internalID: -1773658768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_52
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 117
+        width: 36
+        height: 20
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d6112aec650b349852362a4995d5a4
+      internalID: -632771151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 60
+        width: 28
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b5295c40684834cb1fb52c5295a803
+      internalID: 1262089089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_54
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 60
+        width: 28
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e042df6f38e45a94a89bae63f07c04fa
+      internalID: 377570032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 39
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cec62948593cb4883553f0cae67af9
+      internalID: -238971790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_56
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 38
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cdd81f5249a4149944450210d16385
+      internalID: -698992939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_57
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 33
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc6b7e2e8b86234fae16fb39132d9bc
+      internalID: -104806675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_58
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 33
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af02460ac706b7c4ba46fb4f32e07da6
+      internalID: 1333706394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Black Leg Sanji_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 164
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f406b328dede6604694f7ebc2ce82812
+      internalID: -136870974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - One Piece - Black Leg Sanji_46: -264747269
+      Game Boy Advance - One Piece - Black Leg Sanji_11: 752628902
+      Game Boy Advance - One Piece - Black Leg Sanji_44: -1913307882
+      Game Boy Advance - One Piece - Black Leg Sanji_30: -1955168069
+      Game Boy Advance - One Piece - Black Leg Sanji_5: -1689493959
+      Game Boy Advance - One Piece - Black Leg Sanji_1: -612119001
+      Game Boy Advance - One Piece - Black Leg Sanji_6: 447763764
+      Game Boy Advance - One Piece - Black Leg Sanji_49: -757712215
+      Game Boy Advance - One Piece - Black Leg Sanji_54: 377570032
+      Game Boy Advance - One Piece - Black Leg Sanji_40: -1745179020
+      Game Boy Advance - One Piece - Black Leg Sanji_14: 179862887
+      Game Boy Advance - One Piece - Black Leg Sanji_43: 509024971
+      Game Boy Advance - One Piece - Black Leg Sanji_13: -2072362891
+      Game Boy Advance - One Piece - Black Leg Sanji_19: 1604888787
+      Game Boy Advance - One Piece - Black Leg Sanji_34: -46681074
+      Game Boy Advance - One Piece - Black Leg Sanji_33: 498839558
+      Game Boy Advance - One Piece - Black Leg Sanji_51: -1773658768
+      Game Boy Advance - One Piece - Black Leg Sanji_16: 1809820732
+      Game Boy Advance - One Piece - Black Leg Sanji_9: 1072651864
+      Game Boy Advance - One Piece - Black Leg Sanji_25: -243915770
+      Game Boy Advance - One Piece - Black Leg Sanji_41: 305706152
+      Game Boy Advance - One Piece - Black Leg Sanji_12: 564594787
+      Game Boy Advance - One Piece - Black Leg Sanji_8: 585282524
+      Game Boy Advance - One Piece - Black Leg Sanji_59: -136870974
+      Game Boy Advance - One Piece - Black Leg Sanji_17: -2055246153
+      Game Boy Advance - One Piece - Black Leg Sanji_23: -1217757335
+      Game Boy Advance - One Piece - Black Leg Sanji_7: 1558962306
+      Game Boy Advance - One Piece - Black Leg Sanji_38: -584140877
+      Game Boy Advance - One Piece - Black Leg Sanji_36: -516532244
+      Game Boy Advance - One Piece - Black Leg Sanji_57: -104806675
+      Game Boy Advance - One Piece - Black Leg Sanji_21: -539747563
+      Game Boy Advance - One Piece - Black Leg Sanji_35: -2131958723
+      Game Boy Advance - One Piece - Black Leg Sanji_2: -1933095627
+      Game Boy Advance - One Piece - Black Leg Sanji_15: -280478202
+      Game Boy Advance - One Piece - Black Leg Sanji_31: -755658974
+      Game Boy Advance - One Piece - Black Leg Sanji_28: 1720016102
+      Game Boy Advance - One Piece - Black Leg Sanji_18: -320517125
+      Game Boy Advance - One Piece - Black Leg Sanji_45: -407681633
+      Game Boy Advance - One Piece - Black Leg Sanji_50: -674229472
+      Game Boy Advance - One Piece - Black Leg Sanji_32: -714558463
+      Game Boy Advance - One Piece - Black Leg Sanji_37: -196649066
+      Game Boy Advance - One Piece - Black Leg Sanji_48: 540515664
+      Game Boy Advance - One Piece - Black Leg Sanji_53: 1262089089
+      Game Boy Advance - One Piece - Black Leg Sanji_26: 183262025
+      Game Boy Advance - One Piece - Black Leg Sanji_4: 1136456584
+      Game Boy Advance - One Piece - Black Leg Sanji_56: -698992939
+      Game Boy Advance - One Piece - Black Leg Sanji_52: -632771151
+      Game Boy Advance - One Piece - Black Leg Sanji_58: 1333706394
+      Game Boy Advance - One Piece - Black Leg Sanji_20: 1276411871
+      Game Boy Advance - One Piece - Black Leg Sanji_29: 331792387
+      Game Boy Advance - One Piece - Black Leg Sanji_47: 1061836517
+      Game Boy Advance - One Piece - Black Leg Sanji_22: -574297931
+      Game Boy Advance - One Piece - Black Leg Sanji_10: 1707951682
+      Game Boy Advance - One Piece - Black Leg Sanji_24: 1149054453
+      Game Boy Advance - One Piece - Black Leg Sanji_55: -238971790
+      Game Boy Advance - One Piece - Black Leg Sanji_27: -1515305546
+      Game Boy Advance - One Piece - Black Leg Sanji_3: -1877207644
+      Game Boy Advance - One Piece - Black Leg Sanji_0: -1764742314
+      Game Boy Advance - One Piece - Black Leg Sanji_42: -979096383
+      Game Boy Advance - One Piece - Black Leg Sanji_39: 439888974
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

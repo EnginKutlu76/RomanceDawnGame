@@ -1,0 +1,2018 @@
+fileFormatVersion: 2
+guid: 9e85ddf0e7c45924fb28646d8482d4d5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 302
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f85e96bdeb4a642bd3db2e8a9dbd61
+      internalID: 130229049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 301
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84180d4c1fdfe6b4b9dfdfe5dd8f70ad
+      internalID: 2137239515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 301
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80993e138f0581409b8df1374007883
+      internalID: -1370622102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 301
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8abef9564213840a08cd2c3c2b4b1c
+      internalID: -199242691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 287
+        width: 89
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a48520efd183d458e6ec6ab514a7de
+      internalID: 1472083803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 219
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343515d23fb59a64988fa42666c21d61
+      internalID: -2041905457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 219
+        width: 26
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc68f5908bfcf40468c95f0fb01c7cc8
+      internalID: -1919298014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 219
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c2ef65921a37b40968d36f16c0b706
+      internalID: 219925348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 219
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdf2ed6adcd51e4db430e6013e5801b
+      internalID: -232640256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 219
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da23555ce35ac83499762a4b355ea4c6
+      internalID: 483542713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 219
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94877f3219b0d804993a9d47e9f7ef2d
+      internalID: 427148151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 146
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d8197b1b195d14895421acd847af59
+      internalID: -583970047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 117
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8e6d8bb140f5a49a140799cf045ce3
+      internalID: -1217872681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 118
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef1d127b68d5884fbae9e3d124d96e5
+      internalID: 1658466296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 106
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a490e9d9b13cb44a9a79246727f718
+      internalID: 1527069849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 123
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edab1976af7faa8488a7a9e25621f65d
+      internalID: 1962346065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 116
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569f9307350e1ce48b595ac93defb2a3
+      internalID: 696486553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 123
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b7b503ee785ee4ab12657fe87afc13
+      internalID: 2005358360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 127
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a73fa7d8f69db49b2a64ddf5bb4d03
+      internalID: 960632991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 117
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e8fa020db8a6448b48148fa30260ec
+      internalID: -1415752401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 105
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e671c75a62b3fe489293d04e4e7e536
+      internalID: -1502509594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 117
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b9ab56db216864a8d1b879a29f3bec
+      internalID: -773902847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 123
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4d02ff41532e64c96bf04603aa868d
+      internalID: 1199885111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 127
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9b30b1faea7a146a3427e757cc15d2
+      internalID: -468781948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 122
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906282f312876794aa51606341a88db1
+      internalID: 1365464706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 115
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115fc0c4f3dba9948a0ab84771e2d72c
+      internalID: -1021977027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 125
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eeffda09f5a654d82a526ebe499d4c
+      internalID: 826597773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 119
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817b40dbb6be502409adcfb55160d091
+      internalID: 2106817390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 104
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1545f90cb8d02849a8ebd7008c2dcda
+      internalID: -431881208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 106
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0b3793a3d39b64e8a4b757917415ec
+      internalID: 2081958276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 101
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de654d2ac4d1644c858beaa35a5f245
+      internalID: -1250988440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 113
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb48dad3dca7894cbf6360b280acb46
+      internalID: 989137177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 104
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117db90471d240f43beec7d57894f4bc
+      internalID: -117376326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 106
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87a1bda98a6aac4da6849b9ad493942
+      internalID: -365487373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 112
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23441db3e3d65e146bd7bc004301ce79
+      internalID: -1191204770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 99
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f383aeb7c5ea58343b5ce9daf6dcb784
+      internalID: -442081857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 111
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7979db61d2889eb4d9d8bf7b6c1eec91
+      internalID: 482175985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 111
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ece793e07866ca44b0a367997258b93
+      internalID: 171278282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 98
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f22eb80f5eb2e4ca99552c78415424
+      internalID: 803654178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 97
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f55b8dde0651444b2573bbe3b0b90e
+      internalID: 549395741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 95
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a4489bf78fee04981544ea7a0f5bc6
+      internalID: 85160647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 99
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031b387d8d2fede4d82ba816c27fc2d3
+      internalID: 1412011501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 97
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cb5a40ec7a2f24f94247695ba5cdc3
+      internalID: 847210197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 98
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb9383cf64d4e343bd0fe37108aec6b
+      internalID: 1112063973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 93
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c6c6486d7230f4d862290a3af6c5bb
+      internalID: -1120636831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 103
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0b1342dd30a1a479d2b53ecb3039d1
+      internalID: 1534304765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 97
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14901f5fdf23df44d9b916ffc6eb3a5f
+      internalID: 807278565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 84
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa1afac9e51cbb48ae6caf99d56bd4f
+      internalID: 867004655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 99
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf84ecbc1dbbe5488f64ccee31ba073
+      internalID: -171158095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 84
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7408d7faa0b7c3e47ba79b5354d21d0f
+      internalID: 1509632679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 84
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b012e3718ba48d8458ea5d2f1bb61a01
+      internalID: 1210285639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 85
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ed89418f8b84c43bfaa83af884c2ab
+      internalID: -1485299111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 84
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c499ae1e33faec44d8c43806c1560b33
+      internalID: 1577496394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 84
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e136350b718c042a13873ec5d69908
+      internalID: -1316656132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 84
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300dcc9996abfe04b91917486daaf8a0
+      internalID: -1444673185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 84
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d287adce0210175439c46cd0d6443242
+      internalID: 898464867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 83
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e634ddf3b3a03d4f9033346ac20fe2d
+      internalID: -682913308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 83
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35039ef503fb9cf48b1595bfbaaa4124
+      internalID: -2086827092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 83
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b475af149443b9f469a0c6d806623c34
+      internalID: -255017320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 64
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1169b43db6e959b4780c00a4757760b3
+      internalID: 960434738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 59
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b19fba2153de474a90694925d5fd5f9
+      internalID: 1025764467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 59
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b217636810573154fa46702dbea0ffc5
+      internalID: 810885198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 65
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c00fc0b4e5254848bb948a011998325
+      internalID: 1723324013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 64
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f25a8508c57e6e40b6ef73ba0135d88
+      internalID: -382146463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 11
+        width: 154
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ddf323a7fc23648b2a08bfd1883a1b
+      internalID: 918520740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 49
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb44b6e2401436a44a2fb150d0904a0a
+      internalID: -870959186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 54
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26dec216b7b1e44e9e7734d9f619c5a
+      internalID: 1215263216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 52
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0337d9498f2be6c4795f57266aec5e9a
+      internalID: 123969109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 52
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b96fbe880a3d140a9c1fd737e24b36
+      internalID: -1035608824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 49
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7029229d9a730d447a5cf0564ce073ba
+      internalID: 1928977869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 38
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779d045be58ece44e99cc0799fadd26f
+      internalID: -1079660038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 38
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced9c9b9cd49f83449a03a94b422408d
+      internalID: 1512189935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 24
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68cd41ae253cdb49868caca5d9e1e34
+      internalID: -1421015548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 42
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46abc91d41b13564fafa67703b032800
+      internalID: -1097089840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 37
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38df285aa6fb1f84eba5d1ba4f5fa7c7
+      internalID: 1934597279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 38
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc865b4eacd98344922ce4eb9a2c815
+      internalID: -760671328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 24
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05aa919973b58f645bbc2ee7d5eefb19
+      internalID: -681880789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 24
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6182768a8b5733f46b1f98abea33ba49
+      internalID: -2013324202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 23
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d222601221752b408a9b1a079eea001
+      internalID: -1878194691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 25
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f41453afd06d547a22c7b20d7bf681
+      internalID: -185718864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 23
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2938bf6b4e9f6394cae5919e1c9a4e3e
+      internalID: 1741664531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 24
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffb6255edf3b6b47823d7576347996c
+      internalID: 1461402687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 24
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50515daa63957f40abcbec67ea71c42
+      internalID: -1141774529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 24
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b7b994a38140d448e4dd622d7f0031
+      internalID: 561690359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 75
+        width: 633
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1b2d057d49def47a27f1820873b6d9
+      internalID: 1641548511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dragon-removebg-preview_26: 826597773
+      Dragon-removebg-preview_42: 847210197
+      Dragon-removebg-preview_1: 2137239515
+      Dragon-removebg-preview_59: 960434738
+      Dragon-removebg-preview_18: 960632991
+      Dragon-removebg-preview_80: 1741664531
+      Dragon-removebg-preview_75: -760671328
+      Dragon-removebg-preview_2: -1370622102
+      Dragon-removebg-preview_72: -1421015548
+      Dragon-removebg-preview_6: -1919298014
+      Dragon-removebg-preview_5: -2041905457
+      Dragon-removebg-preview_63: -382146463
+      Dragon-removebg-preview_51: -1485299111
+      Dragon-removebg-preview_8: -232640256
+      Dragon-removebg-preview_7: 219925348
+      Dragon-removebg-preview_49: 1509632679
+      Dragon-removebg-preview_44: -1120636831
+      Dragon-removebg-preview_65: -870959186
+      Dragon-removebg-preview_35: -442081857
+      Dragon-removebg-preview_20: -1502509594
+      Dragon-removebg-preview_3: -199242691
+      Dragon-removebg-preview_11: -583970047
+      Dragon-removebg-preview_82: -1141774529
+      Dragon-removebg-preview_85: -90968756
+      Dragon-removebg-preview_24: 1365464706
+      Dragon-removebg-preview_66: 1215263216
+      Dragon-removebg-preview_50: 1210285639
+      Dragon-removebg-preview_53: -1316656132
+      Dragon-removebg-preview_28: -431881208
+      Dragon-removebg-preview_9: 483542713
+      Dragon-removebg-preview_13: 1658466296
+      Dragon-removebg-preview_71: 1512189935
+      Dragon-removebg-preview_78: -1878194691
+      Dragon-removebg-preview_30: -1250988440
+      Dragon-removebg-preview_37: 171278282
+      Dragon-removebg-preview_62: 1723324013
+      Dragon-removebg-preview_39: 549395741
+      Dragon-removebg-preview_83: 561690359
+      Dragon-removebg-preview_43: 1112063973
+      Dragon-removebg-preview_45: 1534304765
+      Dragon-removebg-preview_69: 1928977869
+      Dragon-removebg-preview_46: 807278565
+      Dragon-removebg-preview_38: 803654178
+      Dragon-removebg-preview_74: 1934597279
+      Dragon-removebg-preview_22: 1199885111
+      Dragon-removebg-preview_4: 1472083803
+      Dragon-removebg-preview_17: 2005358360
+      Dragon-removebg-preview_84: 1641548511
+      Dragon-removebg-preview_34: -1191204770
+      Dragon-removebg-preview_14: 1527069849
+      Dragon-removebg-preview_19: -1415752401
+      Dragon-removebg-preview_33: -365487373
+      Dragon-removebg-preview_81: 1461402687
+      Dragon-removebg-preview_58: -255017320
+      Dragon-removebg-preview_61: 810885198
+      Dragon-removebg-preview_36: 482175985
+      Dragon-removebg-preview_60: 1025764467
+      Dragon-removebg-preview_40: 85160647
+      Dragon-removebg-preview_57: -2086827092
+      Dragon-removebg-preview_68: -1035608824
+      Dragon-removebg-preview_55: 898464867
+      Dragon-removebg-preview_56: -682913308
+      Dragon-removebg-preview_54: -1444673185
+      Dragon-removebg-preview_76: -681880789
+      Dragon-removebg-preview_12: -1217872681
+      Dragon-removebg-preview_0: 130229049
+      Dragon-removebg-preview_52: 1577496394
+      Dragon-removebg-preview_47: 867004655
+      Dragon-removebg-preview_16: 696486553
+      Dragon-removebg-preview_31: 989137177
+      Dragon-removebg-preview_48: -171158095
+      Dragon-removebg-preview_41: 1412011501
+      Dragon-removebg-preview_25: -1021977027
+      Dragon-removebg-preview_15: 1962346065
+      Dragon-removebg-preview_10: 427148151
+      Dragon-removebg-preview_21: -773902847
+      Dragon-removebg-preview_67: 123969109
+      Dragon-removebg-preview_29: 2081958276
+      Dragon-removebg-preview_64: 918520740
+      Dragon-removebg-preview_77: -2013324202
+      Dragon-removebg-preview_70: -1079660038
+      Dragon-removebg-preview_79: -185718864
+      Dragon-removebg-preview_27: 2106817390
+      Dragon-removebg-preview_23: -468781948
+      Dragon-removebg-preview_32: -117376326
+      Dragon-removebg-preview_73: -1097089840
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

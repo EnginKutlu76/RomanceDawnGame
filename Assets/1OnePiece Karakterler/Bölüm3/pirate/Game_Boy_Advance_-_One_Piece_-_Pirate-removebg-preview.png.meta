@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: fc9b9bd921f1dd34b958fe7bde3d6ebc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 213
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcae147f55544e49a2a70b1931e9cbb
+      internalID: 114926541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 214
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef4ed409fecb0a4c9ad44cdf4a9b7bc
+      internalID: 186879266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 215
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84bbdee049555541a047cccb6a802fd
+      internalID: -71973873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 208
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9462484beca6ab94b829b18ed9905bd7
+      internalID: 324985529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 146
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2865d5c4fed889349a737b41625bbce0
+      internalID: -68052002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 146
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2db97940191614aba63062afff6185
+      internalID: 696920881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 146
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727bd3c4da44c0f44b40c4b206798e1a
+      internalID: -1433996030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 146
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2683e267153eff48b60eefb4f4e65ae
+      internalID: -1296493352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 146
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceb73989f869c3468e6f4b8b61543dc
+      internalID: 590285263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 146
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21049e57c43807e4a81aa5f4cc6f0b48
+      internalID: 786575192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 81
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301a5bc78748a94429deb30191b4bba1
+      internalID: 646141140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 82
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a0a61c06a57b14ba03baa053331a61
+      internalID: -149295949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 79
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c1379dde4bef142ad37f7336535ca5
+      internalID: 88747314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 81
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e449a14248fb41408d23ff53d38a6a5
+      internalID: 299846110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 75
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ce8433c877911489e4d890dc848a08
+      internalID: 472249536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 7
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04009c75145b7d42a5bc185a580357d
+      internalID: -1059434100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 9
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681aadf09633e2c41996c1f577ce142b
+      internalID: -884847595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 11
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038f982a4a6b65b49997851703130b0c
+      internalID: -573132791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 14
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce8fd0d82a2ece47a59b418d98ffc76
+      internalID: 177696168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 14
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247f4e4e8c8be04428026f9a1146c6fc
+      internalID: 2127845081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_8: 590285263
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_4: -68052002
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_19: 2127845081
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_11: -149295949
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_7: -1296493352
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_12: 88747314
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_13: 299846110
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_10: 646141140
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_15: -1059434100
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_2: -71973873
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_16: -884847595
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_3: 324985529
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_14: 472249536
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_17: -573132791
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_1: 186879266
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_18: 177696168
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_0: 114926541
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_5: 696920881
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_9: 786575192
+      Game_Boy_Advance_-_One_Piece_-_Pirate-removebg-preview_6: -1433996030
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

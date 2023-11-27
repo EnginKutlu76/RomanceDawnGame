@@ -1,0 +1,1115 @@
+fileFormatVersion: 2
+guid: 57b88cbf54c53344a8e80b5d4181d9a7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 363
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cfefca99c323746946804d2fd11310
+      internalID: -648614701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 363
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b05f29f34659f4d852768055483404
+      internalID: -757740577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 363
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee251816c2d40ca4cb05aec07d7596a8
+      internalID: -996514783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 363
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f8f7087d7a6f4d83b53855aacc4bb
+      internalID: -1255216164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 363
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ddc513ed3dacd49af39986feff165d
+      internalID: 1662983085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 363
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d00d2a17f9c3f40875af2a028587ac
+      internalID: -2036576620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 279
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d98947da8021643bb67a54a147fc39
+      internalID: 196116515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 279
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d2acd66c42be549afb65d9f1a63730
+      internalID: -512427095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 279
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f692b99545e66d4085c19aebaf07d7b
+      internalID: -1984222389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 279
+        width: 22
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3f2fa1e28e8b542880e3204edf2af7
+      internalID: 1160749916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 279
+        width: 22
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9006641e9bde444f87ae183d637ada6
+      internalID: 1954969271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 279
+        width: 22
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8361847bb59c1408e10c611e76bec3
+      internalID: 1445954115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 231
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca67272844c038641af4281ac566c03d
+      internalID: 1638920505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 231
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f602d7bbbb9279e4cb6d7052fc49cbfb
+      internalID: -1820521221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 231
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7983a70d0e91bb540bf1206089f382a0
+      internalID: 1282927979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 231
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc81a99704529a44a9851b532d1d6d1
+      internalID: 14235275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 231
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f16d8ccda68954b8f890a49f67c645
+      internalID: 1285544804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 231
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b263d2195035947a06e2cae9a72070
+      internalID: 1791600777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 231
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4310e43596c7654d910bf358eba11c5
+      internalID: 378557718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 231
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69fcd75bae3cc84ab57c93ff34a64b6
+      internalID: 752904312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 231
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9fa546aee7cf140adb585e0e6d02e6
+      internalID: 1649007197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 173
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c610b41782d3c4884ddd07069f2bd2
+      internalID: 1232716613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 173
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d45073ad687f11499dfa749615ceab9
+      internalID: -1802216948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 173
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d018fb0f1ccae4fb00ff3396ab1b03
+      internalID: 1869076902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 173
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645adae18fc1b5c44be2aa0067262229
+      internalID: 1119758772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 173
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97af7ddc87bc26d4196419e59de0342e
+      internalID: -201795887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 173
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63660ec4f69c5ea45a182f320c0904b0
+      internalID: -830228840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 109
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0285ed53b5012046be9b7727d60fc2f
+      internalID: -933904488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 109
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d70ea17c9a86a46a18ab4a133c7af8
+      internalID: -518434777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 109
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4165faabb6c666e46a0a7f27e6b31d66
+      internalID: 765843503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 109
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f8ecef3153252428d1742010f5d8ee
+      internalID: 404359367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 109
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cdd109625175144a4b5ff6b44eaa76
+      internalID: 765472387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 109
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520db2fad316d71429cf823217ca50e9
+      internalID: 1399189079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 33
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9ea2e8517c82040aeaa6de66fa1977
+      internalID: 428451827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 33
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecef502795fb8cd428f566ef7197ea79
+      internalID: 1833102970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 32
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182386d9a0613d44f9720ff69e363115
+      internalID: -464581219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 32
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10ee47715fc6f5409b037115b009cf0
+      internalID: 1572362750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 33
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042f95fba24879f4bb61073074dca341
+      internalID: 1747451586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 33
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63ea35f92e983941bae344fc145b476
+      internalID: 1003247866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 18
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3131176279c741d4ea61ee294895670f
+      internalID: 983968242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 18
+        width: 92
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0ceac287fc91641aeae06770c7dde9
+      internalID: 953878049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 4
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b888d2f33f4113c4dad46be73b6e68ad
+      internalID: -132747170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 4
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2fc009deb7e6c45b1b47bc6aedd8c2
+      internalID: 1281027045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPCs_East_Blue-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 5
+        width: 72
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3bd282692e06c4fac0076e60df4eff
+      internalID: 1419567541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NPCs_East_Blue-removebg-preview_11: 1445954115
+      NPCs_East_Blue-removebg-preview_26: -830228840
+      NPCs_East_Blue-removebg-preview_34: 1833102970
+      NPCs_East_Blue-removebg-preview_1: -757740577
+      NPCs_East_Blue-removebg-preview_3: -1255216164
+      NPCs_East_Blue-removebg-preview_6: 196116515
+      NPCs_East_Blue-removebg-preview_20: 1649007197
+      NPCs_East_Blue-removebg-preview_5: -2036576620
+      NPCs_East_Blue-removebg-preview_29: 765843503
+      NPCs_East_Blue-removebg-preview_14: 1282927979
+      NPCs_East_Blue-removebg-preview_7: -512427095
+      NPCs_East_Blue-removebg-preview_25: -201795887
+      NPCs_East_Blue-removebg-preview_16: 1285544804
+      NPCs_East_Blue-removebg-preview_23: 1869076902
+      NPCs_East_Blue-removebg-preview_12: 1638920505
+      NPCs_East_Blue-removebg-preview_13: -1820521221
+      NPCs_East_Blue-removebg-preview_39: 983968242
+      NPCs_East_Blue-removebg-preview_27: -933904488
+      NPCs_East_Blue-removebg-preview_35: -464581219
+      NPCs_East_Blue-removebg-preview_21: 1232716613
+      NPCs_East_Blue-removebg-preview_40: 953878049
+      NPCs_East_Blue-removebg-preview_43: 1419567541
+      NPCs_East_Blue-removebg-preview_4: 1662983085
+      NPCs_East_Blue-removebg-preview_0: -648614701
+      NPCs_East_Blue-removebg-preview_2: -996514783
+      NPCs_East_Blue-removebg-preview_41: -132747170
+      NPCs_East_Blue-removebg-preview_19: 752904312
+      NPCs_East_Blue-removebg-preview_22: -1802216948
+      NPCs_East_Blue-removebg-preview_28: -518434777
+      NPCs_East_Blue-removebg-preview_24: 1119758772
+      NPCs_East_Blue-removebg-preview_37: 1747451586
+      NPCs_East_Blue-removebg-preview_10: 1954969271
+      NPCs_East_Blue-removebg-preview_8: -1984222389
+      NPCs_East_Blue-removebg-preview_15: 14235275
+      NPCs_East_Blue-removebg-preview_17: 1791600777
+      NPCs_East_Blue-removebg-preview_42: 1281027045
+      NPCs_East_Blue-removebg-preview_9: 1160749916
+      NPCs_East_Blue-removebg-preview_30: 404359367
+      NPCs_East_Blue-removebg-preview_31: 765472387
+      NPCs_East_Blue-removebg-preview_36: 1572362750
+      NPCs_East_Blue-removebg-preview_32: 1399189079
+      NPCs_East_Blue-removebg-preview_18: 378557718
+      NPCs_East_Blue-removebg-preview_38: 1003247866
+      NPCs_East_Blue-removebg-preview_33: 428451827
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

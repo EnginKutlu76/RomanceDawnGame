@@ -1,0 +1,1555 @@
+fileFormatVersion: 2
+guid: 57c372556ca4b7248be062f91d30a4d2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 864
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f2855b559c4e044bcea80b4206059a
+      internalID: -1434989540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 864
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237ffa5ca76d1604987dc5f9b0b2b7cd
+      internalID: 1531043054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 864
+        width: 89
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc3f431f3562664ea06ea8694257a1b
+      internalID: -1513288740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 864
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51a62c2d2acc544399f07a4135d9c3a
+      internalID: -1339175171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 800
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb361cd632db79541b749c7f3365d25b
+      internalID: -1274953378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 800
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cde3be076f1cec4a80938575dea6627
+      internalID: -986668841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 752
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52331cc8c753154aa46682eb6d7dc0c
+      internalID: 7677082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 762
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ba91f4c89731746901100fce9324a8
+      internalID: -1042073094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 764
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5153d5f325ebad149811dad6ae1282d0
+      internalID: -2022960900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 758
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddc7e37469b9544f8ef5129ca10eb29
+      internalID: 1154258127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 704
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53a5d80c37da194dad6644ba9c21da3
+      internalID: -1383229268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 700
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d269f6d2a55eb514b871b7f7b780a0b6
+      internalID: -2052938185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 680
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8c359d38d84624d8a0839eee4c9290
+      internalID: 1574351351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 680
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e15e71023b11144ab1d1ea18610d5fd
+      internalID: -1272274814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 680
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38b95c4d289c09409c04835ce1eddc7
+      internalID: -615140107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 680
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5312a49776d718349b7935e5405327d0
+      internalID: 558103359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 680
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b3fb0cbf911254786c389b02ba3df6
+      internalID: 94873611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_17
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 681
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de00a64d0ce69784fb9b409bf5d242f8
+      internalID: 1266539613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_18
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 681
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b23a5b90ca45f44bc67652c3aa577e
+      internalID: -618476998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 681
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afe9cf87a5e5ab4dbabffafebbb38b1
+      internalID: 1040795107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 687
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb8912bfeee8474da9d18bc9bcfcc12
+      internalID: -2032899993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 625
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cae4a265cbe504482b97ff75076b77
+      internalID: 2055869674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 626
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc420adba9fbfe4aa1acbac2ca913ee
+      internalID: -76589120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 628
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9136ff47bec6d1449abd9c0e3883c19
+      internalID: 1434851986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 546
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd145add1ca1344ab127fbfef9e9d01
+      internalID: 58265677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_25
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 541
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6083419bccebb4149a156bf9193562ab
+      internalID: -1732973690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 538
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f423c018569e2468e1335ed4dc5468
+      internalID: 651018700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 550
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c358b13f1acc8439fda02d454bfbf0
+      internalID: -1668884797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_28
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 551
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e4250e446f07042851c9dcbe919b09
+      internalID: 302665790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 472
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dff095cce21eb9408edb572ba1e700c
+      internalID: -1660142345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 472
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bdc04aaa46c5b44a970228b597715f
+      internalID: -1786639468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_31
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 478
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f68873917099343b8985a1779c9a14
+      internalID: 825131633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_32
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 474
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e7cab4c04f03d4494d37b1e341a80a
+      internalID: -257449832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 408
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22deb5525616b4047a0ffeef6492ee65
+      internalID: 274730402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_34
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 408
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95e899914a75fb42878ba23cc2941b1
+      internalID: -2132745469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 408
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd5e4d33a2a97a48b722ca075cdd61f
+      internalID: -1242801791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_36
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 408
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da9c3b619728eb4e9a53db748e48f11
+      internalID: -1038206477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_37
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 408
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaadca47dbd08a47bad109896d28c4a
+      internalID: -739051738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_38
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 337
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d480f9aa3ee3d48ad37bc44e5f291f
+      internalID: 1185980580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_39
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 336
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305c98acf5cd5ca43b93b30a7c188d72
+      internalID: -1335865496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_40
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 341
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aac43c26469e7449a5f509ea5e158ae
+      internalID: 1583815850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_41
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 337
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2205b4b0856c27f46b6ecb140b99d57f
+      internalID: -117744660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_42
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 336
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6063f15bcf83864b860b2029cac3235
+      internalID: 1350894894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 260
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2c119b85385774fa3f2f09019909b9
+      internalID: 81313846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 265
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe1a7a0162481b4082c4c03e5a6f5b7
+      internalID: 1909636181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_45
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 263
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41547f0116fb44c48bdd5c3d5e1ae90a
+      internalID: -126496480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_46
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 265
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5a2780eb61a004e9b1b954c1f9c61f
+      internalID: 165075314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_47
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 265
+        width: 84
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28414e2d159ab7d4881865ce76f79906
+      internalID: -1959653764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 196
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cdf2643a2dd2f468b005ce6f4f5a61
+      internalID: 1736508600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_49
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 206
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad62e816a6ea19498e073e7c9c75be7
+      internalID: -443945733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_50
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 202
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80d708ff37813c428bcafc11ba2ba39
+      internalID: 1543836999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 138
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a93ff38bcda104e87284baf666ef40
+      internalID: 1207438622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_52
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 136
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b0cf4f0d31a68408bca72ce1222080
+      internalID: -170104740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_53
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 136
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf10a6c16bffb94dba1f2a2ce6c6348
+      internalID: 483203042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_54
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 137
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b56068cc9f140a4f8416d93d7c89fcd
+      internalID: 1184312425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_55
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 136
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c2064a969323a44982f0d03be60c62
+      internalID: -16036092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_56
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 137
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377fd595726b1464a9cadfeaae6c5f66
+      internalID: -1608656952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_57
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 74
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dd9ab3fa8b4944dbd36e04ede9de3a
+      internalID: 1635607957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_58
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 67
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f937254e2460b46896a0b8fd863465
+      internalID: -1657608366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_59
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 72
+        width: 164
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ae9b0ea43db764590a6ffb320691ba
+      internalID: -2077972469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da0ec2578f0f744e9a7b2e28b03dcf8
+      internalID: 615026222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34840fc10ca406643ab1d52b3870aa96
+      internalID: -1332724869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_62
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb273b1de2e00a64fa11b257c1f229ff
+      internalID: -23530174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Ghin_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a625f4ba20ac14c830c81e3eaa1626
+      internalID: -656098853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - One Piece - Ghin_60: 615026222
+      Game Boy Advance - One Piece - Ghin_33: 274730402
+      Game Boy Advance - One Piece - Ghin_21: 2055869674
+      Game Boy Advance - One Piece - Ghin_53: 483203042
+      Game Boy Advance - One Piece - Ghin_11: -2052938185
+      Game Boy Advance - One Piece - Ghin_35: -1242801791
+      Game Boy Advance - One Piece - Ghin_32: -257449832
+      Game Boy Advance - One Piece - Ghin_45: -126496480
+      Game Boy Advance - One Piece - Ghin_2: -1513288740
+      Game Boy Advance - One Piece - Ghin_15: 558103359
+      Game Boy Advance - One Piece - Ghin_38: 1185980580
+      Game Boy Advance - One Piece - Ghin_47: -1959653764
+      Game Boy Advance - One Piece - Ghin_52: -170104740
+      Game Boy Advance - One Piece - Ghin_17: 1266539613
+      Game Boy Advance - One Piece - Ghin_54: 1184312425
+      Game Boy Advance - One Piece - Ghin_61: -1332724869
+      Game Boy Advance - One Piece - Ghin_48: 1736508600
+      Game Boy Advance - One Piece - Ghin_4: -1274953378
+      Game Boy Advance - One Piece - Ghin_42: 1350894894
+      Game Boy Advance - One Piece - Ghin_23: 1434851986
+      Game Boy Advance - One Piece - Ghin_49: -443945733
+      Game Boy Advance - One Piece - Ghin_43: 81313846
+      Game Boy Advance - One Piece - Ghin_44: 1909636181
+      Game Boy Advance - One Piece - Ghin_51: 1207438622
+      Game Boy Advance - One Piece - Ghin_41: -117744660
+      Game Boy Advance - One Piece - Ghin_16: 94873611
+      Game Boy Advance - One Piece - Ghin_19: 1040795107
+      Game Boy Advance - One Piece - Ghin_14: -615140107
+      Game Boy Advance - One Piece - Ghin_46: 165075314
+      Game Boy Advance - One Piece - Ghin_28: 302665790
+      Game Boy Advance - One Piece - Ghin_37: -739051738
+      Game Boy Advance - One Piece - Ghin_57: 1635607957
+      Game Boy Advance - One Piece - Ghin_30: -1786639468
+      Game Boy Advance - One Piece - Ghin_29: -1660142345
+      Game Boy Advance - One Piece - Ghin_40: 1583815850
+      Game Boy Advance - One Piece - Ghin_50: 1543836999
+      Game Boy Advance - One Piece - Ghin_56: -1608656952
+      Game Boy Advance - One Piece - Ghin_62: -23530174
+      Game Boy Advance - One Piece - Ghin_22: -76589120
+      Game Boy Advance - One Piece - Ghin_24: 58265677
+      Game Boy Advance - One Piece - Ghin_27: -1668884797
+      Game Boy Advance - One Piece - Ghin_26: 651018700
+      Game Boy Advance - One Piece - Ghin_55: -16036092
+      Game Boy Advance - One Piece - Ghin_36: -1038206477
+      Game Boy Advance - One Piece - Ghin_12: 1574351351
+      Game Boy Advance - One Piece - Ghin_3: -1339175171
+      Game Boy Advance - One Piece - Ghin_6: 7677082
+      Game Boy Advance - One Piece - Ghin_63: -656098853
+      Game Boy Advance - One Piece - Ghin_0: -1434989540
+      Game Boy Advance - One Piece - Ghin_9: 1154258127
+      Game Boy Advance - One Piece - Ghin_1: 1531043054
+      Game Boy Advance - One Piece - Ghin_5: -986668841
+      Game Boy Advance - One Piece - Ghin_7: -1042073094
+      Game Boy Advance - One Piece - Ghin_13: -1272274814
+      Game Boy Advance - One Piece - Ghin_20: -2032899993
+      Game Boy Advance - One Piece - Ghin_10: -1383229268
+      Game Boy Advance - One Piece - Ghin_31: 825131633
+      Game Boy Advance - One Piece - Ghin_39: -1335865496
+      Game Boy Advance - One Piece - Ghin_34: -2132745469
+      Game Boy Advance - One Piece - Ghin_25: -1732973690
+      Game Boy Advance - One Piece - Ghin_59: -2077972469
+      Game Boy Advance - One Piece - Ghin_58: -1657608366
+      Game Boy Advance - One Piece - Ghin_8: -2022960900
+      Game Boy Advance - One Piece - Ghin_18: -618476998
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

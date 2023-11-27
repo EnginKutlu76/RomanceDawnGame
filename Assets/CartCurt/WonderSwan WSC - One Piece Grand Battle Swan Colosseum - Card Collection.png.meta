@@ -1,0 +1,1467 @@
+fileFormatVersion: 2
+guid: 31b2321615cc0b04c95f92134dd0f8b2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 637
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd26722701f1ba47a856b8a36d62df3
+      internalID: -577148253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 637
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acad932afb9c1e43becb43a23f8590f
+      internalID: -1630532274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 637
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9141bc253f44c20469d4c91983912b1d
+      internalID: -1484485840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 637
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62402d0af3f9ffb448d254579b76cb1f
+      internalID: -1916514564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 637
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f89962e180cf64f8304aa83c1d0901
+      internalID: -1555683664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 637
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4feedf813bf9ee46954c77ab3b16d9f
+      internalID: -478217683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_6
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 637
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3961ab039664a84581e33e9e7de9e34
+      internalID: -1350576202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_7
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 637
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84becc474b24d5a4fa93e02282a53b13
+      internalID: 885186127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_8
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 637
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cd4b0e5161200489c946392f2b7b71
+      internalID: 55419944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_9
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 637
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c83e5c4e2ea144e90666d9349ee67c
+      internalID: 2081148976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd0b00576b5b274fa8953e88f257a9c
+      internalID: 1108485857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 512
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae61e844e457574eb83c7459dcacfa2
+      internalID: 438308344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 512
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02be2771c20bac94da592fa7c0d7f1b2
+      internalID: 2132173681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 512
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07652479abe7a34448289aeee05a10a6
+      internalID: 2040038976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_14
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 512
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c0eef94d7389245a5405a6b575ab64
+      internalID: 1584236814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_15
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 512
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a3983730629f6479cb9390fed55d37
+      internalID: -1639244708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_16
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 512
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71838b08f94cd3047a5b883b825830ea
+      internalID: 892651407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_17
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 512
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f705b8de7323fc044ae28682c4a1df77
+      internalID: 1015761244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_18
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 512
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e3c7ed83455954c9e3cc679046d964
+      internalID: -1161701802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_19
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 512
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d76265e0a641e544af7d5e5c55f296b
+      internalID: -1032588392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13b9412d553af54faa5f906922b42e8
+      internalID: 1999011161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_21
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 387
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114eb94a7bd544b4c8028b5c542da078
+      internalID: 826262995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 387
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22403659755ec4d4293466d3479a28e7
+      internalID: 1939005867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_23
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 387
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ae9664932d9be439c0dd41169cd9e9
+      internalID: 418008769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_24
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 387
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f116b7f76526552498eb349b38aff1b2
+      internalID: 899827819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_25
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 387
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97427cf02e43e74697f8e866a7b0338
+      internalID: 1547846026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_26
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 387
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c010443a41a42cd48b5898211bfffbed
+      internalID: 1428886945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_27
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 387
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c76fe755d0df31418fba706bf9d0037
+      internalID: -1817516688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_28
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 387
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e3dd3104e87244c86fc4b0f22180f5
+      internalID: 1246567540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_29
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 387
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490ce9a6a56932e4296757a13d668692
+      internalID: 1750756119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a3af6b02b5f6a4fa7d41956cc501b6
+      internalID: 511915862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 262
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67279569097e23047974c5d94d1394ea
+      internalID: 1523944025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_32
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 262
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79eba56fcaf49a43b5a15c67432026d
+      internalID: 331643045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_33
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 262
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfeb4c6a6bed64498ab40cd90987f8f
+      internalID: 2070904894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_34
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 306
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9f0578e397ade4ab4b5d8ec0dccf2b
+      internalID: -1123894070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_35
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 262
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276417a5a4cbfb4439c9e9aa3f7f2c28
+      internalID: 1506090628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_36
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 262
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be31c20edc00dca4385b60c7a147cf40
+      internalID: -1260216833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_37
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 262
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c021c07dfbd5541a36bc7602e91def
+      internalID: 1272718262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_38
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 262
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a521ac8e88419db419775ee5e1da3f41
+      internalID: 495977849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_39
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 262
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb38526e0ea13943bfa7112dfd0782f
+      internalID: 605825910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50f968d4df323c4b8f23b0843d33385
+      internalID: 105157952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 136
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55deb49c66b98e1428a76cf861ebdc31
+      internalID: 769704739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_42
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 137
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea2d552411d9a34c99a97d1d8916467
+      internalID: -1456879344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_43
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 137
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1269dfa8bc490f34ea7353d5c6373f79
+      internalID: -2024253076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_44
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 137
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e541ef779c329f048b1d535ebafef658
+      internalID: -462760300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_45
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 137
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04af2dd077461a54395fa300933641d3
+      internalID: -1906480447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_46
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 137
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8b3ec7db86d264a8a495050582082c
+      internalID: 1378041499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_47
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 138
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9316d680d3539c746966c7c59cd31c08
+      internalID: -403797281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_48
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 138
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0230319ba8b206468bea08fcb6837a2
+      internalID: -1898884656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_49
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 138
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4de74883f9c6c4dab4a711bc698cc9
+      internalID: -177810806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb8e17b7a36458409b542b8291c401e
+      internalID: -892106725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 12
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f4c143129b15f43ad5c8a590af9094
+      internalID: -2016726049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_52
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 12
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b435ed946441154886dfe7d06cf1ca8
+      internalID: 35883220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_53
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 12
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9065debe1951b1449b8bfe1da2e236b9
+      internalID: 636673891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_54
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 12
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347bf6dd0346dba4b9e537ce51c89096
+      internalID: 222161189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_55
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 12
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5856b90fbb28954fbe705c827cedcdb
+      internalID: 30999130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_56
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 12
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eba45a8ba3320645a4de24608e06e7f
+      internalID: -1845894277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_57
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 12
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d6b0dfb8fa6d041b3db62f859bb5ef
+      internalID: -1498444556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_58
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 12
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cdcf95761b5e848a0fb9559a9ff709
+      internalID: 99984028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_59
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 12
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8307abb587f35124dbb723b54801584b
+      internalID: -602476035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_26: 1428886945
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_20: 1999011161
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_56: -1845894277
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_48: -1898884656
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_9: 2081148976
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_18: -1161701802
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_37: 1272718262
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_16: 892651407
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_5: -478217683
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_7: 885186127
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_38: 495977849
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_36: -1260216833
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_39: 605825910
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_8: 55419944
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_59: -602476035
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_6: -1350576202
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_50: -892106725
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_47: -403797281
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_10: 1108485857
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_42: -1456879344
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_44: -462760300
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_12: 2132173681
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_30: 511915862
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_1: -1630532274
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_3: -1916514564
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_24: 899827819
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_41: 769704739
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_11: 438308344
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_27: -1817516688
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_17: 1015761244
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_33: 2070904894
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_15: -1639244708
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_21: 826262995
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_13: 2040038976
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_28: 1246567540
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_58: 99984028
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_51: -2016726049
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_45: -1906480447
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_35: 1506090628
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_52: 35883220
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_25: 1547846026
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_32: 331643045
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_23: 418008769
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_53: 636673891
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_29: 1750756119
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_57: -1498444556
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_2: -1484485840
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_14: 1584236814
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_31: 1523944025
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_43: -2024253076
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_0: -577148253
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_55: 30999130
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_49: -177810806
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_54: 222161189
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_19: -1032588392
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_22: 1939005867
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_4: -1555683664
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_40: 105157952
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_46: 1378041499
+      WonderSwan WSC - One Piece Grand Battle Swan Colosseum - Card Collection_34: -1123894070
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

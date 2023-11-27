@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 9be6f4cdfeffbe04db49f0602a7b3ce9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 366
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b490c83908699794c8391faf6427b234
+      internalID: -294901115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 358
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93d8db13dde9494db8476aac8f31537
+      internalID: -769423108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 358
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0f7cd8dbfa0c948a7dd89a86ca96f2
+      internalID: 931973486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 358
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563abc043c814c8488388e6e0869ed6d
+      internalID: -896493750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 358
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42eb52cee98cd0f4ab652f8fee38da33
+      internalID: 1477183734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 358
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ed90c1d8d903d43be7845d49bbb937
+      internalID: -239917316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_6
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 358
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ecc58e3a2fa3d49be7531ab0dc0bbc
+      internalID: 23742486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 358
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ac4b58228a57e44ac98263c9c54210
+      internalID: 1476829848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a7dddc3e6e6d341bf262d206038ac3
+      internalID: 880128826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 256
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39aad6cbc0bc10b44a80de5457da95b1
+      internalID: -705172950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 256
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c9fee842c734548ba8d7f570698e35
+      internalID: 775775403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 256
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856d19b1415af444f9bf2c61ccec9b9f
+      internalID: -1884708917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_12
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 256
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e22a4dcefa15e9468c2c88a20ab3743
+      internalID: 1832545948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_13
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 256
+        width: 82
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc80f394782cec4e870ba95090f25f2
+      internalID: 1833328930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_14
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 256
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be689a711e248c43a9fc8a23a36bd18
+      internalID: -1542906402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 188
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4967954bab5adbe409caa3539a2bcdd6
+      internalID: 521324183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 169
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6728e97da02bd904c9b6fed7b853f120
+      internalID: -596892141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 194
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a3dae99ae3311438beb0464b6ef4f5
+      internalID: 959058549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 173
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10c7fbbf909adb4588d7b40f6ad78b5
+      internalID: -1483830765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_19
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 174
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622a1e4a230e4df42b6fbe481dfce8a0
+      internalID: -931129385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 174
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc432065b2977c42b1ee240a904b0a6
+      internalID: -342403558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 174
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1484c943362d44ebb9eb5efe24f168
+      internalID: 1616120187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_22
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 174
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70443d78da79dc4fac009ec3e813343
+      internalID: 877279564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_23
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 174
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f602b6792abf61f4ca7315edfabc7e6e
+      internalID: 140150274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_24
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 174
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa9f9b7d489c2349973e947fe027dbe
+      internalID: 1816587880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 167
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcf9b6e7b41aec459ed1d1fb6fe8c74
+      internalID: -1607577321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 166
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f2e909228757d4295798aeae6731a6
+      internalID: 734174902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_27
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 170
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f758897893139224fa9501f5b37e59cc
+      internalID: 1787610290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526caf0ff657fa84ea79d2bf573c94ba
+      internalID: -2087760307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_29
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 71
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fbd4fec79be7b48815f59c638a850d
+      internalID: -1896089147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_30
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 71
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3168dbafdf6d947aaa2905b6efb407
+      internalID: 403870562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 71
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2369d81255fbc7040be99bef8c1e9976
+      internalID: -1590714033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 71
+        width: 86
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9da4c8821ef4a74aa8687984a59dd26
+      internalID: -805338203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_33
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 71
+        width: 86
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cd0ae655a23aa498bd38b59f4f581f
+      internalID: -1631146973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_34
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 71
+        width: 86
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aae5c98f1c9d647a908f6dbb52124c
+      internalID: 1652256519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_35
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 71
+        width: 80
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84f7ef09fbe4bf47929bc711eea8b8a
+      internalID: -614479820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 81
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1339d7d0f289842ad679ee4053114c
+      internalID: 1988018593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_37
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 86
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2a62c46bd0c004baa367c50d0eff5c
+      internalID: 496111700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_38
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b90024bf384e6459563c6f5baeb4c4
+      internalID: 292987816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Alvida Fat_39
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 164
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0ce32ecef16a947a86d722120c6994
+      internalID: -916274941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - One Piece - Alvida Fat_2: 931973486
+      Game Boy Advance - One Piece - Alvida Fat_14: -1542906402
+      Game Boy Advance - One Piece - Alvida Fat_34: 1652256519
+      Game Boy Advance - One Piece - Alvida Fat_36: 1988018593
+      Game Boy Advance - One Piece - Alvida Fat_13: 1833328930
+      Game Boy Advance - One Piece - Alvida Fat_8: 880128826
+      Game Boy Advance - One Piece - Alvida Fat_20: -342403558
+      Game Boy Advance - One Piece - Alvida Fat_38: 292987816
+      Game Boy Advance - One Piece - Alvida Fat_31: -1590714033
+      Game Boy Advance - One Piece - Alvida Fat_25: -1607577321
+      Game Boy Advance - One Piece - Alvida Fat_37: 496111700
+      Game Boy Advance - One Piece - Alvida Fat_5: -239917316
+      Game Boy Advance - One Piece - Alvida Fat_17: 959058549
+      Game Boy Advance - One Piece - Alvida Fat_12: 1832545948
+      Game Boy Advance - One Piece - Alvida Fat_35: -614479820
+      Game Boy Advance - One Piece - Alvida Fat_33: -1631146973
+      Game Boy Advance - One Piece - Alvida Fat_4: 1477183734
+      Game Boy Advance - One Piece - Alvida Fat_21: 1616120187
+      Game Boy Advance - One Piece - Alvida Fat_23: 140150274
+      Game Boy Advance - One Piece - Alvida Fat_9: -705172950
+      Game Boy Advance - One Piece - Alvida Fat_11: -1884708917
+      Game Boy Advance - One Piece - Alvida Fat_28: -2087760307
+      Game Boy Advance - One Piece - Alvida Fat_26: 734174902
+      Game Boy Advance - One Piece - Alvida Fat_29: -1896089147
+      Game Boy Advance - One Piece - Alvida Fat_30: 403870562
+      Game Boy Advance - One Piece - Alvida Fat_18: -1483830765
+      Game Boy Advance - One Piece - Alvida Fat_22: 877279564
+      Game Boy Advance - One Piece - Alvida Fat_6: 23742486
+      Game Boy Advance - One Piece - Alvida Fat_27: 1787610290
+      Game Boy Advance - One Piece - Alvida Fat_19: -931129385
+      Game Boy Advance - One Piece - Alvida Fat_3: -896493750
+      Game Boy Advance - One Piece - Alvida Fat_39: -916274941
+      Game Boy Advance - One Piece - Alvida Fat_32: -805338203
+      Game Boy Advance - One Piece - Alvida Fat_0: -294901115
+      Game Boy Advance - One Piece - Alvida Fat_7: 1476829848
+      Game Boy Advance - One Piece - Alvida Fat_1: -769423108
+      Game Boy Advance - One Piece - Alvida Fat_24: 1816587880
+      Game Boy Advance - One Piece - Alvida Fat_16: -596892141
+      Game Boy Advance - One Piece - Alvida Fat_10: 775775403
+      Game Boy Advance - One Piece - Alvida Fat_15: 521324183
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

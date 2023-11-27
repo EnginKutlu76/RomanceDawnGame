@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: cbc16f5a94590e44baed4168bc7f0b40
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 163
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1f53d727945834bbaf5cc6c92ad1f2
+      internalID: -331236043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 12
+        width: 262
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9edf6bc434b1b340998b848adc5f2b4
+      internalID: -1394200184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 85
+        width: 309
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe94624575e74b4c95348a815ba090d
+      internalID: -1064531229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 240
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70904f2bc4451314f948a6ea5ac933e8
+      internalID: 262605953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 161
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6bd2adf40325d4a82a46b9bb915ad4
+      internalID: -1742878497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 162
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1207d35e087fb4ba6ebe289b3b59e5
+      internalID: -833189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 162
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcab899f6d73af4a8cbfb6047317a1a
+      internalID: 1834774555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 160
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4129c1e37d406c246b22493229272585
+      internalID: 1348665503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 83
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a93ea96cf304544a35cf6beac9f0f0
+      internalID: 817372744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 81
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf28d9112cf625b4dab0c42897889646
+      internalID: -1547589466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 85
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7c600171015014f80fb439ae9dc026
+      internalID: -1405784179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 85
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed10e4afcfb45043a32346ea01df523
+      internalID: 681699003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 85
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504762c9610960846b6dcdb6ba4dafe6
+      internalID: 1693760530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 13
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d9fc7410012a44dbb41a2b9b83da8a
+      internalID: -2038062461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 13
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e6a98cffee8124f84fe7e44aee50d0
+      internalID: 747583457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 15
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdf1665b1ef02e4f93e6b849001520b
+      internalID: 1428162074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 15
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74dbdf81efe9bb45bf3d69e78f675e4
+      internalID: -453444400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 15
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4d7c1a5ab923a44bc12c46bc034913
+      internalID: -964089283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_16: -453444400
+      Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_3: 262605953
+      Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_13: -2038062461
+      Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_15: 1428162074
+      Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_8: 817372744
+      Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_2: -1064531229
+      Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_0: -331236043
+      Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_6: 1834774555
+      Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_17: -964089283
+      Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_5: -833189
+      Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_9: -1547589466
+      Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_14: 747583457
+      Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_1: -1394200184
+      Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_10: -1405784179
+      Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_12: 1693760530
+      Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_11: 681699003
+      Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_4: -1742878497
+      Game_Boy_Advance_-_One_Piece_-_Knife_Thrower-removebg-preview_7: 1348665503
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

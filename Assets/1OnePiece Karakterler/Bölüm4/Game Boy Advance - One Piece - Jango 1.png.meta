@@ -1,0 +1,1709 @@
+fileFormatVersion: 2
+guid: 6dfc666224edf1a45bf670e9ea61523b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042304a4e0c26a94da6774dd90886d57
+      internalID: -1688622058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 744
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd48f9f25b1c9c54094f824952b38a2d
+      internalID: 1404184623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 744
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea49572cdff42be4689603ef8d3f0a8d
+      internalID: 1848827725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 744
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed2704a9134bd143b8795365cde630e
+      internalID: 718537702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 744
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd18b64d1f9425b459e02fbe6e9cf97e
+      internalID: 2018155226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 744
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44b51d14217da3489f2ccea030a1342
+      internalID: -1500191858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 752
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecf8290f1c5c264fbadbcd90bf2acdd
+      internalID: -268327103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 776
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029c9125ae5e9124d962387f50d99bba
+      internalID: 1660607318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 680
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b15dacd68fe9534b818e4e632d304fd
+      internalID: -1169994658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 680
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fe66460051991438c05e6a8bbf7bb1
+      internalID: 1726737485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 680
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7ec3a50df46644fa969c9462defe6b
+      internalID: 2071443404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 680
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dfafbed1572134ebd692706e69a79a
+      internalID: 703816998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 632
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79552009948ff9c4ebe986c2fbdb6ee3
+      internalID: -231574325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 633
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aee955554b69604e8f4929ab0e9c356
+      internalID: -970893821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 635
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a317f06958c8ab34aa0b4d40cd1324fa
+      internalID: -224160527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 560
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406f1ca802a213146910c66eb619911f
+      internalID: 1191368449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 560
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7475546d4aab8934896b4a4990b7ab25
+      internalID: 491074854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 560
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9b3c0fdde061d47940cd25a5717a70
+      internalID: 1761300295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_18
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 560
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2118f6648e5bc9f439c3b43222ecaaa9
+      internalID: -583017897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 560
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e696f606f279ca54f8e3a7de6c4995af
+      internalID: 660998308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 560
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448569b76045b2b498ab6ae1913531a3
+      internalID: 1190876670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 488
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517c2a0d8fe994547acfa1c636c272e2
+      internalID: -1480061015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 488
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9e029cf98c5dd439820df23c1386a9
+      internalID: -1238094184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 488
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f8c00758828714ab8dbc3a68da800b
+      internalID: -1089074057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 488
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f631999b612e18f4792475fd7245d27e
+      internalID: -1265832375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_25
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 528
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46524e9960087124eb8e30801842dbfb
+      internalID: -448372283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 512
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681365bd4b5e3454f8e196a2148e577e
+      internalID: -1271469736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 496
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62407593672b0f549a14caa9bc25ba9c
+      internalID: 480455318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 424
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697c9fd2b07cf314484e40cbb6139672
+      internalID: 1829055354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 424
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fb4d4357321ae409d0b28a4ad31602
+      internalID: -277291202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 428
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45829197fb0739746a9e07d93c78f93a
+      internalID: -391793530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_31
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 442
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f4e92b2f7f58f408e0356295330b27
+      internalID: 783622415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 430
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fa506421c7e294f973e7e1f4a03d6a
+      internalID: -2008631653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_33
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 421
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a928405e292374791ed9b605e8ae6b
+      internalID: 1470796059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300b4957f2c36cf4fbd5d5142595a47e
+      internalID: 1675024569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 352
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc2ad1d35451ac40a7ab39be381aab4
+      internalID: -1494155631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 408
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b63150a409de954ba87f321ff7b897f
+      internalID: -1207603450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 352
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd12a08e19fa88d4f84681296e1868c5
+      internalID: -1101636425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_38
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 352
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1a0e55e268b4f44a8f11ef6905b37a
+      internalID: -1373879435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a35c2f21d07ba4ea2d24f4fbf32990
+      internalID: 2130767949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 360
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9600b00e47c3244b9af46d2b7aff6b
+      internalID: 719276613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 296
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b492732f4d630640a6740f7f0a84118
+      internalID: 2096730530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_42
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 296
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaaa97a28e3cb34fb359c6eb1ad1826
+      internalID: -422794907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_43
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 271
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47375fd6c372bd248a81d43c6c98e133
+      internalID: 1287403222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_44
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 263
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256093b9d3b1cc04e9a634dfe72b6373
+      internalID: -753798321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_45
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 287
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d4ab5f7a808454287dd44ef1cb06b0
+      internalID: 1432543560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_46
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 268
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ac99e67f2d83c48bae9c6f6998b3f1
+      internalID: 102088681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_47
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 300
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e993b8428f4b5e409e714a44ecbadc1
+      internalID: -929850792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_48
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 294
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68b09e9d24e31f45983c547f2e7348d
+      internalID: -771597775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_49
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 282
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41504d08aa557c344a15d9e70da4e40a
+      internalID: -885712614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_50
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 256
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0645b6dd6d64a0841850747ca3158dfc
+      internalID: 230579337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_51
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 265
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb40aa06cb2a6345b82a91d52a41aea
+      internalID: -1566225752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031e19d8c46374741b73b14fb2e35d62
+      internalID: -1485709262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 224
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b240f98096bfc4fabd2c1d945f1ffe
+      internalID: 724270229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_54
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 224
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a691c619f17bee64e86eaba204b5faba
+      internalID: 2027563179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_55
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 224
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aad914235aca61419212877a6042d53
+      internalID: 1537352825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_56
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 256
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d40582d8396e9429fb0dd3d450bb4a
+      internalID: 373966483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd493db1f39ee2a48976ab78dea3d617
+      internalID: 1803789305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_58
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 144
+        width: 23
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb69baf982d65547a673500d54caa09
+      internalID: 1277583593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_59
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 72
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d389211a0f95a5c4a911b0aacdc46bde
+      internalID: 260788831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_60
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 72
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd4748b557beeb45b8c179e22d48b94
+      internalID: 19179052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 74
+        width: 164
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a306e3aed3e35429345fb9085b2889
+      internalID: 943492956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a2c1853cd06034ea43d59f217cd995
+      internalID: -1607066313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_63
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1adc54c2229bef45abe65cfe551d5b9
+      internalID: 295036393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_64
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e618983615cbd9d4ba3d50c245c4643a
+      internalID: 1483527716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_65
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbfd080774682441b62eb8ff605706d
+      internalID: 488414553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_66
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c2276f405c6a242bee18ee972c5d84
+      internalID: 673610928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_67
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f92b49a392efd46a7ddcebda77a5bd
+      internalID: -1375986981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_68
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc5fcf54354c344fa49e01e4a1b0261
+      internalID: -130679621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_69
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773cf11dd8032d1419c2f35ee28df125
+      internalID: -851852803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Jango_70
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700cad6d743a55a4fa537996d8038bbb
+      internalID: 234294890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - One Piece - Jango_4: 2018155226
+      Game Boy Advance - One Piece - Jango_23: -1089074057
+      Game Boy Advance - One Piece - Jango_51: -1566225752
+      Game Boy Advance - One Piece - Jango_58: 1277583593
+      Game Boy Advance - One Piece - Jango_53: 724270229
+      Game Boy Advance - One Piece - Jango_30: -391793530
+      Game Boy Advance - One Piece - Jango_69: -851852803
+      Game Boy Advance - One Piece - Jango_56: 373966483
+      Game Boy Advance - One Piece - Jango_21: -1480061015
+      Game Boy Advance - One Piece - Jango_67: -1375986981
+      Game Boy Advance - One Piece - Jango_68: -130679621
+      Game Boy Advance - One Piece - Jango_29: -277291202
+      Game Boy Advance - One Piece - Jango_35: -1494155631
+      Game Boy Advance - One Piece - Jango_10: 2071443404
+      Game Boy Advance - One Piece - Jango_37: -1101636425
+      Game Boy Advance - One Piece - Jango_44: -753798321
+      Game Boy Advance - One Piece - Jango_48: -771597775
+      Game Boy Advance - One Piece - Jango_65: 488414553
+      Game Boy Advance - One Piece - Jango_63: 295036393
+      Game Boy Advance - One Piece - Jango_54: 2027563179
+      Game Boy Advance - One Piece - Jango_31: 783622415
+      Game Boy Advance - One Piece - Jango_27: 480455318
+      Game Boy Advance - One Piece - Jango_47: -929850792
+      Game Boy Advance - One Piece - Jango_0: -1688622058
+      Game Boy Advance - One Piece - Jango_25: -448372283
+      Game Boy Advance - One Piece - Jango_41: 2096730530
+      Game Boy Advance - One Piece - Jango_13: -970893821
+      Game Boy Advance - One Piece - Jango_40: 719276613
+      Game Boy Advance - One Piece - Jango_20: 1190876670
+      Game Boy Advance - One Piece - Jango_26: -1271469736
+      Game Boy Advance - One Piece - Jango_11: 703816998
+      Game Boy Advance - One Piece - Jango_7: 1660607318
+      Game Boy Advance - One Piece - Jango_19: 660998308
+      Game Boy Advance - One Piece - Jango_5: -1500191858
+      Game Boy Advance - One Piece - Jango_50: 230579337
+      Game Boy Advance - One Piece - Jango_64: 1483527716
+      Game Boy Advance - One Piece - Jango_42: -422794907
+      Game Boy Advance - One Piece - Jango_18: -583017897
+      Game Boy Advance - One Piece - Jango_43: 1287403222
+      Game Boy Advance - One Piece - Jango_70: 234294890
+      Game Boy Advance - One Piece - Jango_45: 1432543560
+      Game Boy Advance - One Piece - Jango_36: -1207603450
+      Game Boy Advance - One Piece - Jango_60: 19179052
+      Game Boy Advance - One Piece - Jango_22: -1238094184
+      Game Boy Advance - One Piece - Jango_38: -1373879435
+      Game Boy Advance - One Piece - Jango_34: 1675024569
+      Game Boy Advance - One Piece - Jango_33: 1470796059
+      Game Boy Advance - One Piece - Jango_1: 1404184623
+      Game Boy Advance - One Piece - Jango_59: 260788831
+      Game Boy Advance - One Piece - Jango_55: 1537352825
+      Game Boy Advance - One Piece - Jango_14: -224160527
+      Game Boy Advance - One Piece - Jango_32: -2008631653
+      Game Boy Advance - One Piece - Jango_16: 491074854
+      Game Boy Advance - One Piece - Jango_62: -1607066313
+      Game Boy Advance - One Piece - Jango_49: -885712614
+      Game Boy Advance - One Piece - Jango_3: 718537702
+      Game Boy Advance - One Piece - Jango_2: 1848827725
+      Game Boy Advance - One Piece - Jango_9: 1726737485
+      Game Boy Advance - One Piece - Jango_52: -1485709262
+      Game Boy Advance - One Piece - Jango_66: 673610928
+      Game Boy Advance - One Piece - Jango_12: -231574325
+      Game Boy Advance - One Piece - Jango_15: 1191368449
+      Game Boy Advance - One Piece - Jango_28: 1829055354
+      Game Boy Advance - One Piece - Jango_8: -1169994658
+      Game Boy Advance - One Piece - Jango_39: 2130767949
+      Game Boy Advance - One Piece - Jango_57: 1803789305
+      Game Boy Advance - One Piece - Jango_61: 943492956
+      Game Boy Advance - One Piece - Jango_24: -1265832375
+      Game Boy Advance - One Piece - Jango_17: 1761300295
+      Game Boy Advance - One Piece - Jango_6: -268327103
+      Game Boy Advance - One Piece - Jango_46: 102088681
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

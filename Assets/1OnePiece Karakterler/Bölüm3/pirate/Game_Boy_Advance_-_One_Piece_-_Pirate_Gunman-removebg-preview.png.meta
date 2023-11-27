@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: 5b564880d216bfd4f8c293bb24cdfaef
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 289
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f374e6a9c853524288715150e96c5c6
+      internalID: -1606994385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 288
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca6cbd5d13e6bc488c71f3f7c86a86b
+      internalID: 946394712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 284
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f313580c6f1d8b5489986b16fdf27927
+      internalID: 1954531226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 221
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78709c37b2ab3c04a8f6ec456799b268
+      internalID: -403557244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 221
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21926b3e9a984594bba00f0658b6c995
+      internalID: 816903977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 240
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e7a736094039845969f954191d3e6e
+      internalID: 1925160873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 236
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a7365a7c6738343becabb814a17522
+      internalID: 1907252629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 233
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7533d8fc96fd5dd45bc6e80459f460c6
+      internalID: 1764131958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 154
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a550df3dca95da4495073045a36276d
+      internalID: 932072978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 156
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050247c755feffa4598ffdbb87d34bea
+      internalID: -389387524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 153
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7d227b12e3ffd478c56ca742c250ce
+      internalID: -1207275200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 157
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c513fb15d126ebe40a159127699c1b51
+      internalID: -694493905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 87
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccc5350373f8f641afd3f0df6399e59
+      internalID: -445787427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 86
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7792aa09f03ad479383a0026fb677f
+      internalID: 802542529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 97
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee5ff8c62f2914438e39c1bd9b9a50a
+      internalID: -657384524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 98
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bbf28619968c14fbd0ba0440ce14f9
+      internalID: -601370578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 11
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ecc7120d2d52942914f45a2b4b083d
+      internalID: 2047921565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 18
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d716270c5f9f2749a4d4f8cbe027d1e
+      internalID: 590002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_15: -601370578
+      Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_0: -1606994385
+      Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_17: 590002
+      Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_13: 802542529
+      Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_3: -403557244
+      Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_5: 1925160873
+      Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_1: 946394712
+      Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_8: 932072978
+      Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_16: 2047921565
+      Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_2: 1954531226
+      Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_11: -694493905
+      Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_10: -1207275200
+      Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_4: 816903977
+      Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_7: 1764131958
+      Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_9: -389387524
+      Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_14: -657384524
+      Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_12: -445787427
+      Game_Boy_Advance_-_One_Piece_-_Pirate_Gunman-removebg-preview_6: 1907252629
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

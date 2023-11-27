@@ -1,0 +1,2325 @@
+fileFormatVersion: 2
+guid: d540bdbbcc8e55e45aed621d9c8e7033
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1358
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdea52000c299a84fbfd537236147133
+      internalID: 820693579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1358
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed4ccfe06699d84e930a54764580a64
+      internalID: -371105292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1358
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f5b7df1b8e08645aa7a8a04de265cf
+      internalID: 967422068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1316
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688133f0bbc222e4585ca8ff1a99461c
+      internalID: -599540027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1310
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9454c65b3856fe94c910529d23f762ca
+      internalID: 1533251592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1316
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09236700ba073154dbdbc62420d6244b
+      internalID: 208189848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1312
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f4cfe0b8e28df49ba8f218b38566cc
+      internalID: 1756806856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1310
+        width: 56
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae013f18be6214a449c8d837ee9c337f
+      internalID: 1378438787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1254
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a59136771ba1684aa5ad31c969fc516
+      internalID: -1539750930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1254
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c96625e9cc8f54f98eeae1fcdd97ac
+      internalID: -2023382248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1254
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcf69cc9d02cab46a97ea8dc4116339
+      internalID: 2085856494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1198
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc63a07368753bd4889c76b9b5d04816
+      internalID: -451079358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1198
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d49ddc83575d64caa2f32ae32ef7e3
+      internalID: 1457799695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1206
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d707598ae735d42b9641352a342799
+      internalID: 164329077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1198
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55c3f7efc1067d4890ee6dbfc143f07
+      internalID: 1940701026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1206
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc91b49fa709ec24eaf771d8c55d88cb
+      internalID: -844512935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_16
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1198
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826f9709736547f479a3314b0cb4fe2f
+      internalID: 1679988500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1198
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58543bc326d1174a984fadbc4e120da
+      internalID: 1897925330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1126
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f4cfc481827bc428464894df7969f6
+      internalID: -2046833162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1126
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af9ad9ab475cf343bf11134c1c8e30f
+      internalID: -1010333224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1126
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c33814e296bde641b201bcb90bc904a
+      internalID: -1919624117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1126
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5fc08291203c0478272a64d6b03337
+      internalID: 1463456747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_22
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1126
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc09f75fedee95341a259243f7b01f81
+      internalID: -216618083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1062
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2840daacc28d47e46aee338fb671f7fa
+      internalID: 848751571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1062
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45782065c62a3c54fa92db94caca6c51
+      internalID: -653224361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1058
+        width: 164
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04bf43be7f15324489f7a01e90ef3bc
+      internalID: -2073844547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1014
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d584c914ff38b1346b17da5839fb6470
+      internalID: -1926841397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_27
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1014
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481c2e5cb4d37bf46a2d10b8114067e9
+      internalID: -143591616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1014
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecfb18428dbd524ca41c3b0752e3c5f
+      internalID: 570565141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 958
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827f30ab9a46c094bbf18eedd831f8c7
+      internalID: 1532610707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 958
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed16021818fd8e4385f75d26b78c94e
+      internalID: -1044339646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 959
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a519cec5060abd4e80c8f8210691b4a
+      internalID: 6566262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_32
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 959
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5211f1fbf264d548b7b403533146def
+      internalID: 812587578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 959
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd4693aa68497747b3726416e528103
+      internalID: 1469786314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_34
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 959
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e788e940d550dd74aa39cbe0a9647f7a
+      internalID: 638960331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 870
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3de1a57a87df9e4d8d66725a4244f09
+      internalID: 1950224770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 870
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fbf6afc5693ca4ca2996dfd158ebb5
+      internalID: 1092487499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 870
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d8830f1300052439616e2e6943f18b
+      internalID: 404308908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_38
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 870
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9aa543667176784cb582310ea652f24
+      internalID: -796608547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 798
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce67f5e4440df464f8bcc142db210019
+      internalID: -1008882986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_40
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 800
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1cf1a3754b7eb479a50049c362851a
+      internalID: -410572720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 798
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39813ead9f58c446994c63e7e8f7d36
+      internalID: -658906585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_42
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 800
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbde51b81da2214f9948485e7a4ca8d
+      internalID: 768714282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 750
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0be6b9b390b1c847b2a563862ad75f4
+      internalID: 974120184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_44
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 750
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43aa187000edb9844aa6375debd42c95
+      internalID: 1543424398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_45
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 750
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616be771028409748ace14a4585d80c3
+      internalID: 1448625587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_46
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 750
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9e3f3a5e818be449102d8b704ab6a0
+      internalID: 1527885805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_47
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 750
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c2e59e04e17aa428dd9ec512f49b3e
+      internalID: 104433338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 686
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1535880bda68e4f9ec0b536774ad43
+      internalID: 271739922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_49
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 686
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dc2753bbda3d24db58c1b92d91cf93
+      internalID: 661595137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_50
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 686
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a28905e39e13545b4c0f490d5850b4
+      internalID: 2052332992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_51
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 686
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08867236270eae944bb8c3990047d855
+      internalID: 22717414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_52
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 686
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8c11d9f6262094b8eb7ba1d96899ed
+      internalID: -626108371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_53
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 686
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a9bc1211c989e4aacc41fa46abd85a
+      internalID: -1916170928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 622
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fb17397c706394995e65b928d494bf
+      internalID: -728556372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_55
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 622
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9655a885b00bb52408adf30a094d3085
+      internalID: 1561002142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_56
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 622
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b502ca334d61ed148839ad41b18d551f
+      internalID: -1190508544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_57
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 622
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce397980362fa747a6a76ab2810022e
+      internalID: -358778298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_58
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 622
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b084b4b9d1b8f3e4e80c08d6b9f02080
+      internalID: -2035469425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 534
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c09adb7e168e9d4c96260f6b2ee4a3d
+      internalID: -682612914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_60
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 534
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd090aa30e228a4ca9f2742023e0bdb
+      internalID: -2068129132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_61
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 534
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bbb9b7fa79378448a19b85237758a1
+      internalID: 252911041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_62
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 534
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b308bbdda9a8eb469e2adaf6fe4b418
+      internalID: -1690953317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 478
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d61dbf22f10b34180b6402e83b953c
+      internalID: 259846416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 478
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1100919f53ba964d9c125c2d95788ff
+      internalID: 737756575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_65
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 478
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c81d40ff3274144583d12ab577aa6f9
+      internalID: -230652307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_66
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 478
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa53b714251a80141873f583dff0c5b2
+      internalID: 2041333632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_67
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 478
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482e500b47cb9ff428e2ced0ad0b3624
+      internalID: -1610684544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_68
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 414
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e960ee14722a50a4e9dd9daf995d1feb
+      internalID: -1951024370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_69
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 414
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88e26be924168b4a8badd5c0b94f5a4
+      internalID: -1666238987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 360
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82a69a840948a9498718e5a1d77c4b4
+      internalID: 222345334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_71
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 360
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f791bf8f1c2107e4a827d47ab93b7ccd
+      internalID: -1627851365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_72
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 359
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be03fef3d2ece840a332e404e282465
+      internalID: 1909961504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_73
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 359
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f32c69d1bd7dd469eecfeb49078ba8
+      internalID: 1549416509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7c3a5a5317c1746a3e28a08d47de30
+      internalID: 1019293021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_75
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 279
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead442590acc9f8499f246bd38ba8c67
+      internalID: -2055089864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_76
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 279
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e38c01ecbe75884587ece5b9b9fa972
+      internalID: 16056336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_77
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 279
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2210502959e93f439eec62ad6aca41b
+      internalID: -919893935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_78
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 278
+        width: 70
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc043df7d79613e4abab8f1465fcfcba
+      internalID: 1391116966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_79
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 223
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65928ba3578aee54f893095423db67a5
+      internalID: 658055058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_80
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 222
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d05a4a260f181c46acbf81eb00979a5
+      internalID: 1820802990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_81
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 150
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617407ac64a442f43b5aaa0b9366433c
+      internalID: 1486626550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_82
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 150
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c756c86fe06e64f8b2cd97c4a90699
+      internalID: -1957365492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 150
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da396092cded4b419d0fb6769e997e7
+      internalID: 2050530452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_84
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 150
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418388036a9875e47aaec612f9b77a3e
+      internalID: -428934682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e190b8da86dbb4fa133164114fd822
+      internalID: -67397867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_86
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 135
+        width: 19
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8680317d9f0305b468d115b2ff29cd26
+      internalID: -1218611776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_87
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 70
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa3808f4b500c84489c156a89da882c
+      internalID: 615658253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_88
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 127
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9345531b95f00254a97c729663a2b0f3
+      internalID: 1975252392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_89
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e375e1930066b3a4bb1ee8d341ff8eaa
+      internalID: 2022179525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_90
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 70
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30d9c39501fe5d4e894439fd9dce3c9
+      internalID: 1158800162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_91
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 122
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad460597094cbd449a39a3bb47c74a1
+      internalID: 765334031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_92
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 70
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac64d1c4f500afc4bb0d88e599a42f95
+      internalID: -10593341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_93
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 14
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d733f7fa2c1faec4ca4dd00e2d500ec3
+      internalID: -318303867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_94
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 14
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b110cad844fade8458182674885ff10c
+      internalID: -1875049574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_95
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 14
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11555348e29b274e82923c1571ac193
+      internalID: -1569463820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_96
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 15
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cd1149293684b49a6d4c07e862ef8c
+      internalID: -1779532499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_97
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 15
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429c18a994a20174888ac8f7e3285629
+      internalID: -1727133565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Tashigi_98
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 15
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fc4ec86b361e54e95da3b71bc7f9f0
+      internalID: 1751543980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - One Piece - Tashigi_68: -1951024370
+      Game Boy Advance - One Piece - Tashigi_38: -796608547
+      Game Boy Advance - One Piece - Tashigi_88: 1975252392
+      Game Boy Advance - One Piece - Tashigi_65: -230652307
+      Game Boy Advance - One Piece - Tashigi_29: 1532610707
+      Game Boy Advance - One Piece - Tashigi_75: -2055089864
+      Game Boy Advance - One Piece - Tashigi_78: 1391116966
+      Game Boy Advance - One Piece - Tashigi_5: 208189848
+      Game Boy Advance - One Piece - Tashigi_54: -728556372
+      Game Boy Advance - One Piece - Tashigi_82: -1957365492
+      Game Boy Advance - One Piece - Tashigi_28: 570565141
+      Game Boy Advance - One Piece - Tashigi_77: -919893935
+      Game Boy Advance - One Piece - Tashigi_2: 967422068
+      Game Boy Advance - One Piece - Tashigi_12: 1457799695
+      Game Boy Advance - One Piece - Tashigi_40: -410572720
+      Game Boy Advance - One Piece - Tashigi_95: -1569463820
+      Game Boy Advance - One Piece - Tashigi_87: 615658253
+      Game Boy Advance - One Piece - Tashigi_56: -1190508544
+      Game Boy Advance - One Piece - Tashigi_36: 1092487499
+      Game Boy Advance - One Piece - Tashigi_17: 1897925330
+      Game Boy Advance - One Piece - Tashigi_96: -1779532499
+      Game Boy Advance - One Piece - Tashigi_4: 1533251592
+      Game Boy Advance - One Piece - Tashigi_69: -1666238987
+      Game Boy Advance - One Piece - Tashigi_0: 820693579
+      Game Boy Advance - One Piece - Tashigi_42: 768714282
+      Game Boy Advance - One Piece - Tashigi_9: -2023382248
+      Game Boy Advance - One Piece - Tashigi_1: -371105292
+      Game Boy Advance - One Piece - Tashigi_66: 2041333632
+      Game Boy Advance - One Piece - Tashigi_67: -1610684544
+      Game Boy Advance - One Piece - Tashigi_37: 404308908
+      Game Boy Advance - One Piece - Tashigi_71: -1627851365
+      Game Boy Advance - One Piece - Tashigi_3: -599540027
+      Game Boy Advance - One Piece - Tashigi_35: 1950224770
+      Game Boy Advance - One Piece - Tashigi_18: -2046833162
+      Game Boy Advance - One Piece - Tashigi_22: -216618083
+      Game Boy Advance - One Piece - Tashigi_21: 1463456747
+      Game Boy Advance - One Piece - Tashigi_52: -626108371
+      Game Boy Advance - One Piece - Tashigi_92: -10593341
+      Game Boy Advance - One Piece - Tashigi_79: 658055058
+      Game Boy Advance - One Piece - Tashigi_13: 164329077
+      Game Boy Advance - One Piece - Tashigi_7: 1378438787
+      Game Boy Advance - One Piece - Tashigi_16: 1679988500
+      Game Boy Advance - One Piece - Tashigi_62: -1690953317
+      Game Boy Advance - One Piece - Tashigi_91: 765334031
+      Game Boy Advance - One Piece - Tashigi_39: -1008882986
+      Game Boy Advance - One Piece - Tashigi_41: -658906585
+      Game Boy Advance - One Piece - Tashigi_43: 974120184
+      Game Boy Advance - One Piece - Tashigi_53: -1916170928
+      Game Boy Advance - One Piece - Tashigi_51: 22717414
+      Game Boy Advance - One Piece - Tashigi_81: 1486626550
+      Game Boy Advance - One Piece - Tashigi_50: 2052332992
+      Game Boy Advance - One Piece - Tashigi_11: -451079358
+      Game Boy Advance - One Piece - Tashigi_73: 1549416509
+      Game Boy Advance - One Piece - Tashigi_14: 1940701026
+      Game Boy Advance - One Piece - Tashigi_48: 271739922
+      Game Boy Advance - One Piece - Tashigi_46: 1527885805
+      Game Boy Advance - One Piece - Tashigi_84: -428934682
+      Game Boy Advance - One Piece - Tashigi_83: 2050530452
+      Game Boy Advance - One Piece - Tashigi_98: 1751543980
+      Game Boy Advance - One Piece - Tashigi_8: -1539750930
+      Game Boy Advance - One Piece - Tashigi_20: -1919624117
+      Game Boy Advance - One Piece - Tashigi_27: -143591616
+      Game Boy Advance - One Piece - Tashigi_57: -358778298
+      Game Boy Advance - One Piece - Tashigi_60: -2068129132
+      Game Boy Advance - One Piece - Tashigi_86: -1218611776
+      Game Boy Advance - One Piece - Tashigi_49: 661595137
+      Game Boy Advance - One Piece - Tashigi_24: -653224361
+      Game Boy Advance - One Piece - Tashigi_23: 848751571
+      Game Boy Advance - One Piece - Tashigi_59: -682612914
+      Game Boy Advance - One Piece - Tashigi_30: -1044339646
+      Game Boy Advance - One Piece - Tashigi_55: 1561002142
+      Game Boy Advance - One Piece - Tashigi_44: 1543424398
+      Game Boy Advance - One Piece - Tashigi_93: -318303867
+      Game Boy Advance - One Piece - Tashigi_85: -67397867
+      Game Boy Advance - One Piece - Tashigi_58: -2035469425
+      Game Boy Advance - One Piece - Tashigi_15: -844512935
+      Game Boy Advance - One Piece - Tashigi_70: 222345334
+      Game Boy Advance - One Piece - Tashigi_63: 259846416
+      Game Boy Advance - One Piece - Tashigi_10: 2085856494
+      Game Boy Advance - One Piece - Tashigi_33: 1469786314
+      Game Boy Advance - One Piece - Tashigi_26: -1926841397
+      Game Boy Advance - One Piece - Tashigi_97: -1727133565
+      Game Boy Advance - One Piece - Tashigi_6: 1756806856
+      Game Boy Advance - One Piece - Tashigi_64: 737756575
+      Game Boy Advance - One Piece - Tashigi_25: -2073844547
+      Game Boy Advance - One Piece - Tashigi_80: 1820802990
+      Game Boy Advance - One Piece - Tashigi_19: -1010333224
+      Game Boy Advance - One Piece - Tashigi_74: 1019293021
+      Game Boy Advance - One Piece - Tashigi_76: 16056336
+      Game Boy Advance - One Piece - Tashigi_94: -1875049574
+      Game Boy Advance - One Piece - Tashigi_34: 638960331
+      Game Boy Advance - One Piece - Tashigi_45: 1448625587
+      Game Boy Advance - One Piece - Tashigi_31: 6566262
+      Game Boy Advance - One Piece - Tashigi_61: 252911041
+      Game Boy Advance - One Piece - Tashigi_72: 1909961504
+      Game Boy Advance - One Piece - Tashigi_89: 2022179525
+      Game Boy Advance - One Piece - Tashigi_32: 812587578
+      Game Boy Advance - One Piece - Tashigi_90: 1158800162
+      Game Boy Advance - One Piece - Tashigi_47: 104433338
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

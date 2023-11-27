@@ -1,0 +1,1005 @@
+fileFormatVersion: 2
+guid: 0a8a96d1c448ff343b150fefbf5b65f3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 389
+        width: 34
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec336a35f87e1e2418edb4a55fcc2ad8
+      internalID: 1012918177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 394
+        width: 164
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbb1ec2f5d0e58488719cfe98533dce
+      internalID: 1173654671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 342
+        width: 43
+        height: 37
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98afd474c95eaf1408014fdc01244198
+      internalID: 869132353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 341
+        width: 38
+        height: 39
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197f4fabeb674844eabaeb3e2e6cb696
+      internalID: 270000759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 341
+        width: 34
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b116cc1758a39b84f8c9a54c576e2ccc
+      internalID: -208589428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 341
+        width: 44
+        height: 38
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40179e3f0836694385092a628d36873
+      internalID: 1141928428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 342
+        width: 42
+        height: 37
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820b58f433730ee45b485266c4266b5e
+      internalID: 733343502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_7
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 342
+        width: 36
+        height: 39
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21aa368e695b5f428d380efdce25760
+      internalID: 53144415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 277
+        width: 31
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5460a3381db8a49b16375bb6bc6df9
+      internalID: 1245772574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 277
+        width: 25
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020bd87589f6a0d45804791ffdf994c3
+      internalID: 447788006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 277
+        width: 25
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b31020c32408140a2bac2665a07ad2
+      internalID: 1091980318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 277
+        width: 31
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa1c8b0ded96d2478fafdf4ff071560
+      internalID: -999958399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 277
+        width: 33
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478821b494915ad4aa705f42351aa61a
+      internalID: 1366076500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_13
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 277
+        width: 31
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b4677ab1167634dae9fe6c56eb3e0e
+      internalID: 1677657864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 277
+        width: 34
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b586c12dccb9474bbf7e96bd9890091
+      internalID: 1021547403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 221
+        width: 27
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52da954859a34e24b9724ab1f3980ec7
+      internalID: 256701772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 221
+        width: 30
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2455bdf54fd29714081844fc21d49f27
+      internalID: 2016577100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 221
+        width: 31
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f49f26678ef494488da352ec889a8b2
+      internalID: -2009901966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 221
+        width: 31
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6e06d283f93ee4fa25fc974b11787a
+      internalID: -834638912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 221
+        width: 35
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba1ae55c64c45840b194b3b29a0f9cc
+      internalID: -1938208547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 221
+        width: 32
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c149cb956652649a6153ff34221bad
+      internalID: 93193696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 222
+        width: 33
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b76141489eaa249b6b92309fbb1206
+      internalID: 775997850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_22
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 222
+        width: 24
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f230d11ab84244a859524f67372474
+      internalID: -48737404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 163
+        width: 33
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d40c78c13d04149b942d450fb96126
+      internalID: -767320876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 163
+        width: 26
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00e64fee9bf5f645bc764533ce84c85
+      internalID: 1687276960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 163
+        width: 25
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b8124cdbf895a4a90165bf367e5a03
+      internalID: 1733970679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_26
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 162
+        width: 32
+        height: 45
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fab3313d0723b144ad264bd2bd4ef60
+      internalID: 693751397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 162
+        width: 25
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bc935d02bbff34cafc782a915d22d2
+      internalID: 2014571090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 163
+        width: 28
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1bc8e9768282d458a41286b560029b
+      internalID: -203796930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 98
+        width: 20
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bafe99f2063ef04bbf6730582203d1f
+      internalID: -1481401451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 98
+        width: 20
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9080f4d54559db41ba8af9f28840620
+      internalID: 1828800214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_31
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 98
+        width: 26
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da0fd6df3a7cc54d9ee4f84e93da58b
+      internalID: -1725658716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_32
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 98
+        width: 23
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44615f94920d49347a8df76318d3e9b9
+      internalID: 652771719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 68
+        width: 25
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cf0593400ed9742a43985941835712
+      internalID: -798099751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_34
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 68
+        width: 25
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2920c736921e26140a0f593fd637553a
+      internalID: -650916490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 10
+        width: 35
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8187907190ab07b40b90a0885c11c486
+      internalID: 581553068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_36
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 10
+        width: 35
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890987f164a20b64db8de763b6028790
+      internalID: 1140953972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_37
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 10
+        width: 32
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c24fddba04d25468eff234de32695e
+      internalID: 938170837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Nami_38
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 10
+        width: 31
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6847b9ee78e0f2b408193a3403d8e1fe
+      internalID: 1753905793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - One Piece - Nami_19: -1938208547
+      Game Boy Advance - One Piece - Nami_23: -767320876
+      Game Boy Advance - One Piece - Nami_4: -208589428
+      Game Boy Advance - One Piece - Nami_0: 1012918177
+      Game Boy Advance - One Piece - Nami_26: 693751397
+      Game Boy Advance - One Piece - Nami_5: 1141928428
+      Game Boy Advance - One Piece - Nami_16: 2016577100
+      Game Boy Advance - One Piece - Nami_31: -1725658716
+      Game Boy Advance - One Piece - Nami_32: 652771719
+      Game Boy Advance - One Piece - Nami_18: -834638912
+      Game Boy Advance - One Piece - Nami_24: 1687276960
+      Game Boy Advance - One Piece - Nami_11: -999958399
+      Game Boy Advance - One Piece - Nami_30: 1828800214
+      Game Boy Advance - One Piece - Nami_22: -48737404
+      Game Boy Advance - One Piece - Nami_25: 1733970679
+      Game Boy Advance - One Piece - Nami_33: -798099751
+      Game Boy Advance - One Piece - Nami_21: 775997850
+      Game Boy Advance - One Piece - Nami_8: 1245772574
+      Game Boy Advance - One Piece - Nami_9: 447788006
+      Game Boy Advance - One Piece - Nami_12: 1366076500
+      Game Boy Advance - One Piece - Nami_3: 270000759
+      Game Boy Advance - One Piece - Nami_17: -2009901966
+      Game Boy Advance - One Piece - Nami_10: 1091980318
+      Game Boy Advance - One Piece - Nami_15: 256701772
+      Game Boy Advance - One Piece - Nami_34: -650916490
+      Game Boy Advance - One Piece - Nami_6: 733343502
+      Game Boy Advance - One Piece - Nami_14: 1021547403
+      Game Boy Advance - One Piece - Nami_35: 581553068
+      Game Boy Advance - One Piece - Nami_20: 93193696
+      Game Boy Advance - One Piece - Nami_13: 1677657864
+      Game Boy Advance - One Piece - Nami_7: 53144415
+      Game Boy Advance - One Piece - Nami_37: 938170837
+      Game Boy Advance - One Piece - Nami_1: 1173654671
+      Game Boy Advance - One Piece - Nami_27: 2014571090
+      Game Boy Advance - One Piece - Nami_29: -1481401451
+      Game Boy Advance - One Piece - Nami_36: 1140953972
+      Game Boy Advance - One Piece - Nami_28: -203796930
+      Game Boy Advance - One Piece - Nami_2: 869132353
+      Game Boy Advance - One Piece - Nami_38: 1753905793
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

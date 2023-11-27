@@ -1,0 +1,1555 @@
+fileFormatVersion: 2
+guid: 036a09f53114f10449995d45260ecaf0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 531
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d7cec0143e4b84eb477ba1567c8690
+      internalID: 1737204588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 531
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175f28d15f321294db6085846573ded0
+      internalID: 1274818887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 531
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594fba713214966479f27667081cd2df
+      internalID: -1886040711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 531
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72775fcb1335ef1429422926c434267d
+      internalID: 2059560284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_4
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 539
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf574de33b7d9347a8af83ce7280d8e
+      internalID: 192541016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 459
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e0fb003870f9844a47dabe30d8fd41
+      internalID: 287360034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 459
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc586b309fbb5b244905f2606f15a418
+      internalID: 1174108628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 459
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa87747c3963eb499d41a957758d721
+      internalID: 1807517281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 459
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729d645ce0074854c90840a9101ca24b
+      internalID: -1813464952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 459
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237ffa10eeffcb646b8b622cbd80b7f0
+      internalID: 1183865313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_10
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 459
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a776876febc984e99ab07f0e62f1dd
+      internalID: 848817457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 462
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545e36a21b2e86a4b91c33286701b5ea
+      internalID: 1472557209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_12
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 466
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e150f915297cf4b8857dd901d66b34
+      internalID: -1754115315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 380
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4da4b7d93e159542a7c83097d536728
+      internalID: -612723282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 380
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577ed67f4fad20c41b273422646042e3
+      internalID: 887359606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 379
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dabeb56d4919c342b95c10acb73b377
+      internalID: 1701772934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 379
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a2e49a783283440940dbfe1aeba32e
+      internalID: 639343166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 379
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f4a27109ff6cd4e99d2dd8a59c7eec
+      internalID: 513222083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 291
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7b7141cf05549448e2c489ede56cf8
+      internalID: -1201062183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 291
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee33f19620a85ee4aafb3ba1ade952e0
+      internalID: -1024506612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 291
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aff9af2dd88ad548abc05c328cc0ac9
+      internalID: 861426178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 291
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069be9d8b9ade1748ab26f1ae87e55a2
+      internalID: -497410523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_22
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 291
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ed96f8f0fcb2641a2b960e73943056
+      internalID: -2005804193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_23
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 295
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00daead92b6a004181b2c4277569e06
+      internalID: 1515122772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_24
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 320
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508f9166ae9858f4f85c75a4cec185ce
+      internalID: -2115432884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_25
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 295
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ea7289600b68044a092f5c09b307f4
+      internalID: 250582868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_26
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 318
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe2995ac53bfff458298b25d6a98801
+      internalID: 1398915191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_27
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 317
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeb7d33de7cbc440bb705ea521aed71
+      internalID: -121221600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_28
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 294
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17805452038abc41aa89555eeca5e6d
+      internalID: 1202102504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_29
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 308
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1713ea73d5df27241b4b872741bbc409
+      internalID: -2097150583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_30
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 307
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab05150817a9da4a91e5f0536b8b718
+      internalID: -1412810581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_31
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 305
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5a21b9df265274b93db0e17a6c4d49
+      internalID: 499596650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_32
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 299
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551f8217b4f4d7c45afc21572de9a8e2
+      internalID: -1269235623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_33
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 304
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bfba5e657a591438315d0b80cda37e
+      internalID: -550395774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_34
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 297
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261d6eb6870d770429ccff056229d4fd
+      internalID: 254606158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_35
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 292
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b3aaf900b380b4ab15bd6878a590c7
+      internalID: -1667555993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_36
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 288
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f2e378602307e40a29becb9b74f3e5
+      internalID: -1244468180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af022f016a662343b0ed11a5bcca893
+      internalID: -1766511604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_38
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 219
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12554f9207200b4ab9847dd570f39d4
+      internalID: 191982546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_39
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 219
+        width: 99
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1a73382deec1040a1d2d5cf1c7dfcd
+      internalID: -1840984943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_40
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 248
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22b6ffaedcaf934fb361fa3b704e807
+      internalID: 1426195937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_41
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 219
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb04d656f55cf141bf311f8a0486ec0
+      internalID: -254144966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 220
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b7698c3bac2c047b35f141be8ba048
+      internalID: 1792611904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_43
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 220
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b176dc8afe4a83546aa0a56ab9a9e671
+      internalID: 64115013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_44
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 234
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca83686fb2ca78648b776b36003a8ac8
+      internalID: -2080068105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_45
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 234
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6532813fc17d63443b38f764825026f0
+      internalID: -896568707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcd35db6145d7d40af923f17a961d3c
+      internalID: -185167424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_47
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 128
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603690940deb92b4fb83231af5218fbb
+      internalID: 1242064826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_48
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 128
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1428e792ec30de24f9024d3b08c9fa98
+      internalID: 1219474264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_49
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 128
+        width: 36
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055697771a686d243a76429ced4d414d
+      internalID: -942366056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_50
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 128
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbe7b3af89cac343ba62d414655d731
+      internalID: -925533138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_51
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 128
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634b5968419315b47a80fb74d68ff318
+      internalID: -1541996372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_52
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 137
+        width: 164
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be7bdffd6c30f5448a02fa896921405
+      internalID: 824636120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_53
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 56
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c05c3e49c04c64ca6af6e96306c932
+      internalID: -1582753963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_54
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 56
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16240fd931ac1348a1f5d8a24740b19
+      internalID: 1398708967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_55
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 56
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88622edbfe27ea48b9b57029469d64e
+      internalID: -1350693522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_56
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 56
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d54868a9dda3c14897076665d61bbfe
+      internalID: 1313063337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_57
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 58
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631cbb066ec29714dbb794eadcaadd1e
+      internalID: 591244876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_58
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 62
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee687d20a462bab4e8df9756a3d2c5d9
+      internalID: 450963328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 76
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a31f66e1654e641baf30fbdcd862b3
+      internalID: 737895153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_60
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1
+        width: 76
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cd418ccaa872f48af8f342a78422e9
+      internalID: -139688746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_61
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d5497581dd5b24890d4f8d8de5fa10
+      internalID: 855024479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_62
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 4
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b214ea5bffdfd1740b6d1e06f3dded43
+      internalID: -1005382369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnePiece Karakterler 1_63
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 4
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d0b202cfe26b84d8d2ec2be8f53b00
+      internalID: 472554893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OnePiece Karakterler 1_15: 1701772934
+      OnePiece Karakterler 1_14: 887359606
+      OnePiece Karakterler 1_46: -185167424
+      OnePiece Karakterler 1_21: -497410523
+      OnePiece Karakterler 1_6: 1174108628
+      OnePiece Karakterler 1_53: -1582753963
+      OnePiece Karakterler 1_4: 192541016
+      OnePiece Karakterler 1_11: 1472557209
+      OnePiece Karakterler 1_26: 1398915191
+      OnePiece Karakterler 1_56: 1313063337
+      OnePiece Karakterler 1_1: 1274818887
+      OnePiece Karakterler 1_31: 499596650
+      OnePiece Karakterler 1_49: -942366056
+      OnePiece Karakterler 1_27: -121221600
+      OnePiece Karakterler 1_59: 737895153
+      OnePiece Karakterler 1_18: -1201062183
+      OnePiece Karakterler 1_33: -550395774
+      OnePiece Karakterler 1_60: -139688746
+      OnePiece Karakterler 1_37: -1766511604
+      OnePiece Karakterler 1_41: -254144966
+      OnePiece Karakterler 1_63: 472554893
+      OnePiece Karakterler 1_23: 1515122772
+      OnePiece Karakterler 1_10: 848817457
+      OnePiece Karakterler 1_12: -1754115315
+      OnePiece Karakterler 1_28: 1202102504
+      OnePiece Karakterler 1_57: 591244876
+      OnePiece Karakterler 1_3: 2059560284
+      OnePiece Karakterler 1_19: -1024506612
+      OnePiece Karakterler 1_44: -2080068105
+      OnePiece Karakterler 1_8: -1813464952
+      OnePiece Karakterler 1_17: 513222083
+      OnePiece Karakterler 1_42: 1792611904
+      OnePiece Karakterler 1_47: 1242064826
+      OnePiece Karakterler 1_54: 1398708967
+      OnePiece Karakterler 1_61: 855024479
+      OnePiece Karakterler 1_38: 191982546
+      OnePiece Karakterler 1_50: -925533138
+      OnePiece Karakterler 1_22: -2005804193
+      OnePiece Karakterler 1_43: 64115013
+      OnePiece Karakterler 1_52: 824636120
+      OnePiece Karakterler 1_39: -1840984943
+      OnePiece Karakterler 1_62: -1005382369
+      OnePiece Karakterler 1_35: -1667555993
+      OnePiece Karakterler 1_13: -612723282
+      OnePiece Karakterler 1_16: 639343166
+      OnePiece Karakterler 1_0: 1737204588
+      OnePiece Karakterler 1_24: -2115432884
+      OnePiece Karakterler 1_32: -1269235623
+      OnePiece Karakterler 1_30: -1412810581
+      OnePiece Karakterler 1_20: 861426178
+      OnePiece Karakterler 1_48: 1219474264
+      OnePiece Karakterler 1_36: -1244468180
+      OnePiece Karakterler 1_51: -1541996372
+      OnePiece Karakterler 1_5: 287360034
+      OnePiece Karakterler 1_55: -1350693522
+      OnePiece Karakterler 1_2: -1886040711
+      OnePiece Karakterler 1_34: 254606158
+      OnePiece Karakterler 1_29: -2097150583
+      OnePiece Karakterler 1_7: 1807517281
+      OnePiece Karakterler 1_40: 1426195937
+      OnePiece Karakterler 1_45: -896568707
+      OnePiece Karakterler 1_9: 1183865313
+      OnePiece Karakterler 1_58: 450963328
+      OnePiece Karakterler 1_25: 250582868
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

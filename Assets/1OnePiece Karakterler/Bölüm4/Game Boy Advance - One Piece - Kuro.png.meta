@@ -1,0 +1,2413 @@
+fileFormatVersion: 2
+guid: f92a90a729e9b9145b718baae942699e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1021
+        width: 72
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23a1fcd62c3ee346a0905456c967f81
+      internalID: -1272285992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1026
+        width: 68
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f04dc123ce7f0d48b95b0496fc1f0c7
+      internalID: 1779684881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1027
+        width: 71
+        height: 27
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035bff0d94a8d644da6d97f25e8f7daa
+      internalID: 686482893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 977
+        width: 88
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e11aeed3383cf74097fef45ff5fc9d9
+      internalID: -1729918117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 954
+        width: 74
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265afb7c22fffe94dac24d1cb9ca43b0
+      internalID: -3905462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 954
+        width: 61
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7d9f90c2504ca4190c096c60849a8b
+      internalID: -1390479578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_6
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 954
+        width: 75
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eceb29bcfe8f74b92dcd851187c336
+      internalID: 896484538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 888
+        width: 79
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e30ca783a8427044ab1a9e47c917158
+      internalID: 22181098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 890
+        width: 79
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ccf6fd54d4b834086b96aa1b2cabcc
+      internalID: 353984068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 890
+        width: 83
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5392bdf328c35aa479a5a38fd477b6ea
+      internalID: -76717747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 890
+        width: 80
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518d4947cca960143a38fdca5ac5dcdb
+      internalID: -1825153161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_11
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 890
+        width: 72
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76c3ac88c4597847869fb80f8dad787
+      internalID: 190585496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 818
+        width: 50
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4a2c9b69ff4294881da26a1d7ab82a
+      internalID: 1024874231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 818
+        width: 51
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0f12f38e3585b4699607b92e26dd38
+      internalID: 184706442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 818
+        width: 49
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617fc070f29b36c4180266f40bd475d9
+      internalID: -91934980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_15
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 818
+        width: 49
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c672830b472a749927fb706afadd9b
+      internalID: -1889852558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 818
+        width: 49
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa97ce20f836ae4cbf8cae8fcb80f55
+      internalID: -1663983420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 746
+        width: 53
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee4a0de2d12f124396b0336ac13f0ab
+      internalID: 2070837704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 746
+        width: 57
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287874efe0384fc4e8f6fb87ec7c94c3
+      internalID: 136385868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 749
+        width: 64
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4ded1d37b9c7641ac468135e7998a6
+      internalID: -1968866565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 746
+        width: 60
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eada7c4863a10c448888dacd1a7bf9ce
+      internalID: 931933545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 682
+        width: 34
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f84edf42b02ed4a9f0ba378273197f
+      internalID: 1184427312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 682
+        width: 33
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c596322738bff6e4c96d3f7c12568dff
+      internalID: -1941256238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 682
+        width: 33
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158e1fa664341f244953d6df04715e6e
+      internalID: 1766425167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_24
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 682
+        width: 33
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126e3b8d1b455724a8a4e17adcdbf57e
+      internalID: -497361949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 682
+        width: 32
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7b277f188df96449e8f2d8f6df846c
+      internalID: 635378489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 78
+        height: 68
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e3c5529fcc34a4c959fe0ea4c6c7e4
+      internalID: -520147330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 594
+        width: 77
+        height: 75
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecd2f0d44cb02c4cbd704a0609997e1
+      internalID: 609522348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_28
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 526
+        width: 55
+        height: 69
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5498c67b25b15c841b84526e50aabe0c
+      internalID: -453132725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_29
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 529
+        width: 63
+        height: 73
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826284506ef3d154d8721afa181b950a
+      internalID: -444906786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 530
+        width: 80
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef68ac9c1a95d4a42b682e909b70acd4
+      internalID: 1843939244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 530
+        width: 64
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e5b01183f2b0345976ed2a4f1f28a6
+      internalID: 651434320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_32
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 530
+        width: 85
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d0e21635e704f4894aa7d685ef00e5
+      internalID: 710789542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_33
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 530
+        width: 57
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30419ce821f6e54d9b3d6d411c27ca0
+      internalID: -925745807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_34
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 525
+        width: 77
+        height: 66
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db523ba622cfd6e4e89f25abc68bc272
+      internalID: 1723392465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 447
+        width: 57
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e72af8e7ba0c014397461550ec428dc
+      internalID: 462449699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_36
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 447
+        width: 57
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28eea7aa0f776b4ca911acddf0121ea
+      internalID: 434592916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 447
+        width: 50
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a900bfa6c9e7b479be6abfa42283ff
+      internalID: 181300793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 447
+        width: 32
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faa71527f86c8646b51de812d9ce4ce
+      internalID: -369244385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_39
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 447
+        width: 35
+        height: 66
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95acd4c7963d0c042af4bcaabd14f8a8
+      internalID: -2031810403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_40
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 447
+        width: 78
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5229e3a571c1244594ae8e1d7499a20
+      internalID: 70324653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 483
+        width: 45
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be866cb48cf7da34b934275b84843770
+      internalID: -469518680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 490
+        width: 43
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2011b3b36f2c546a060f910e00a7ca
+      internalID: -1190625749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_43
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 451
+        width: 89
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958f259dc62f54e4b9e5781f656c2e2f
+      internalID: 974074528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_44
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 451
+        width: 104
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58772e33dfad16b48a95b3f50e1e580d
+      internalID: -1987883212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_45
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 451
+        width: 77
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1173d392796fbb45b53b58527c0e299
+      internalID: -1485654813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_46
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 451
+        width: 77
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f6789e6dca2164882d63ed7457576a
+      internalID: 1753705251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_47
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 368
+        width: 75
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4fc6970ebc57d47aa8ab09698e002a
+      internalID: 859767416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 376
+        width: 63
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8fd2f075fc544429409cf020109072
+      internalID: 891401476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_49
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 414
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266470ddcf8acc94899099b50985b274
+      internalID: -1427828146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_50
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 371
+        width: 72
+        height: 45
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7920ed79b876c234f9e4d8bbaeee374a
+      internalID: 675138521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_51
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 402
+        width: 24
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73304a1a6bfe1f9459ab086151d380b2
+      internalID: -1626668983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_52
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 368
+        width: 78
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94df6188e43aec419513b0c19b5e140
+      internalID: 1976867331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 369
+        width: 6
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aacdc61cd4136409cd166b891add3a
+      internalID: 1031590554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_54
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 311
+        width: 58
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82184904dae6cdf46a06602746a346db
+      internalID: 1517835391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_55
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 311
+        width: 51
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159dc52807984694485a6ac0dd6dbabe
+      internalID: 388490740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 239
+        width: 33
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0456902760af384d862d1cbf534ff34
+      internalID: -315211808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 239
+        width: 33
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b1a27bc08ad2840a4e104033b8ee71
+      internalID: -1669580802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_58
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 239
+        width: 34
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad7a24d84153304b8d06bd6ad6aa6cb
+      internalID: -1232554092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_59
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 239
+        width: 50
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb42a519f586eab45b841dc20c348d10
+      internalID: 1412264026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_60
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 205
+        width: 38
+        height: 35
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d9a39c7f468564da92c66b4de629f7
+      internalID: -995111371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_61
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 200
+        width: 34
+        height: 27
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33a12836040e8f4885724652bb9f119
+      internalID: 1228961614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_62
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 175
+        width: 35
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca58157c50397fc4c953d9b168afbf41
+      internalID: -969213917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_63
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 175
+        width: 26
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216ff6cb42805c14ba2261c390af13bf
+      internalID: -1488746832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_64
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 175
+        width: 27
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45b24c97066ff048911d5a355e43e37
+      internalID: -368159127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_65
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 175
+        width: 32
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec94f2fbf307fea4cb50a2e4cab6f6ac
+      internalID: 441294809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_66
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 175
+        width: 33
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce468cbd0826354f8865361022dbc04
+      internalID: 1681116657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_67
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 205
+        width: 26
+        height: 22
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bab65f5d3e9c74989fe4ca72f0eef6
+      internalID: 2117550426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_68
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 205
+        width: 37
+        height: 34
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c7321fa069b7642a6185e290476e8f
+      internalID: 2095611733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_69
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 217
+        width: 32
+        height: 17
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644d233af85d5f346bce0081731ecfa3
+      internalID: 572534856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_70
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 214
+        width: 26
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3667eb1975dfd5544afa9158872fc398
+      internalID: 1117892060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_71
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 206
+        width: 6
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da521cb5f1bdc04abd50a11d125441b
+      internalID: -165315834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_72
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 205
+        width: 44
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989830df73f2a0648b2477a40e939f39
+      internalID: -582679142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_73
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 205
+        width: 46
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c249b29c91ef8e74a8052989f1b9bfcd
+      internalID: -656999312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_74
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 189
+        width: 16
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9aec2a21b87f74ebd6902c465f24f4
+      internalID: 1401991780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_75
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 196
+        width: 15
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c39d206d342f147972fd9189525119
+      internalID: 107063056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_76
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 189
+        width: 22
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12942402a1f5e5946b22351b33c09748
+      internalID: 1971662442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_77
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 175
+        width: 17
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33993d19a4eec5d498c270894e1afcfb
+      internalID: -1496086764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_78
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 175
+        width: 17
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac9dca19bcbb034c9ecfc34a08ba034
+      internalID: 3413817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_79
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 175
+        width: 16
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76c9b4f75e7edc48815d552ac0dc427
+      internalID: 2038890017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_80
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 172
+        width: 42
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf6b6377d7b0694b8b63bce59e3457e
+      internalID: -694583326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_81
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 119
+        width: 45
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37f2b7a88b7cca4db297993404cd6e4
+      internalID: 1184724190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_82
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 166
+        width: 9
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bdcce0758043e4897a37cf72ee385a
+      internalID: 1019468784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_83
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 165
+        width: 32
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f0602057684f2429330c739de4e038
+      internalID: 804458017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_84
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 90
+        width: 49
+        height: 81
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad1d58f3127fa347b07f12f7beb69dd
+      internalID: -504721119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_85
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 119
+        width: 50
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9380d60078c565e489522ed5a7c56e19
+      internalID: -1402741504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_86
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 119
+        width: 50
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddb714f95a818d42a68bd79003a7b2e
+      internalID: -2137855933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_87
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 119
+        width: 54
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69425a3464a0539439736178d3fbe604
+      internalID: 293673938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_88
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 107
+        width: 66
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94c4666050aa04469803d89c96be37d
+      internalID: -263817472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_89
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 116
+        width: 47
+        height: 37
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13e6fa4b11b0f74db2314d34d4bca9b
+      internalID: -1542733233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_90
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 107
+        width: 41
+        height: 31
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd43b7f6d7fd7d442870166f99db8956
+      internalID: 843055069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 114
+        width: 25
+        height: 19
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e0d94940d26b8419fc5decd67e88c9
+      internalID: -1302836479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_92
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 96
+        width: 14
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55233d9a8c1111e4d89407956979052f
+      internalID: 192387390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_93
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 74
+        width: 53
+        height: 37
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01db2f08e3f69ab428ea690bdce6a827
+      internalID: -88914871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_94
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 78
+        width: 55
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346908ab88cc34c4c99bfc202f8b0584
+      internalID: 758225089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_95
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 74
+        width: 14
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bb160322f516b4b8ddba97175f42a6
+      internalID: -1309704444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_96
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 64
+        width: 16
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bdc4dec2b93b243a9763a5009e1cfd
+      internalID: 1895441164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_97
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 70
+        width: 14
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966867f54302c424e861f362c33f003c
+      internalID: 1103444155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_98
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 65
+        width: 17
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57cd3960c8ebc4419d7ada9cdd8062d
+      internalID: -800114702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_99
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 7
+        width: 50
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c6112aecd8f73408f93d063dabe19c
+      internalID: -1966992214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_100
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 7
+        width: 50
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb450b08e1718cd469d35a0ea3fad86c
+      internalID: 866333317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_101
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 7
+        width: 54
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9194b694ecc3ceb4591aa68c3715d833
+      internalID: 38512289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - One Piece - Kuro_102
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 0
+        width: 164
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc27efe3c6d007c41a00d246558f7962
+      internalID: 1106875189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - One Piece - Kuro_101: 38512289
+      Game Boy Advance - One Piece - Kuro_40: 70324653
+      Game Boy Advance - One Piece - Kuro_79: 2038890017
+      Game Boy Advance - One Piece - Kuro_11: 190585496
+      Game Boy Advance - One Piece - Kuro_89: -1542733233
+      Game Boy Advance - One Piece - Kuro_36: 434592916
+      Game Boy Advance - One Piece - Kuro_9: -76717747
+      Game Boy Advance - One Piece - Kuro_61: 1228961614
+      Game Boy Advance - One Piece - Kuro_95: -1309704444
+      Game Boy Advance - One Piece - Kuro_0: -1272285992
+      Game Boy Advance - One Piece - Kuro_82: 1019468784
+      Game Boy Advance - One Piece - Kuro_14: -91934980
+      Game Boy Advance - One Piece - Kuro_31: 651434320
+      Game Boy Advance - One Piece - Kuro_38: -369244385
+      Game Boy Advance - One Piece - Kuro_87: 293673938
+      Game Boy Advance - One Piece - Kuro_42: -1190625749
+      Game Boy Advance - One Piece - Kuro_100: 866333317
+      Game Boy Advance - One Piece - Kuro_16: -1663983420
+      Game Boy Advance - One Piece - Kuro_66: 1681116657
+      Game Boy Advance - One Piece - Kuro_56: -315211808
+      Game Boy Advance - One Piece - Kuro_81: 1184724190
+      Game Boy Advance - One Piece - Kuro_7: 22181098
+      Game Boy Advance - One Piece - Kuro_85: -1402741504
+      Game Boy Advance - One Piece - Kuro_74: 1401991780
+      Game Boy Advance - One Piece - Kuro_59: 1412264026
+      Game Boy Advance - One Piece - Kuro_15: -1889852558
+      Game Boy Advance - One Piece - Kuro_72: -582679142
+      Game Boy Advance - One Piece - Kuro_8: 353984068
+      Game Boy Advance - One Piece - Kuro_93: -88914871
+      Game Boy Advance - One Piece - Kuro_94: 758225089
+      Game Boy Advance - One Piece - Kuro_63: -1488746832
+      Game Boy Advance - One Piece - Kuro_58: -1232554092
+      Game Boy Advance - One Piece - Kuro_80: -694583326
+      Game Boy Advance - One Piece - Kuro_49: -1427828146
+      Game Boy Advance - One Piece - Kuro_39: -2031810403
+      Game Boy Advance - One Piece - Kuro_67: 2117550426
+      Game Boy Advance - One Piece - Kuro_30: 1843939244
+      Game Boy Advance - One Piece - Kuro_29: -444906786
+      Game Boy Advance - One Piece - Kuro_60: -995111371
+      Game Boy Advance - One Piece - Kuro_19: -1968866565
+      Game Boy Advance - One Piece - Kuro_28: -453132725
+      Game Boy Advance - One Piece - Kuro_1: 1779684881
+      Game Boy Advance - One Piece - Kuro_20: 931933545
+      Game Boy Advance - One Piece - Kuro_4: -3905462
+      Game Boy Advance - One Piece - Kuro_96: 1895441164
+      Game Boy Advance - One Piece - Kuro_32: 710789542
+      Game Boy Advance - One Piece - Kuro_54: 1517835391
+      Game Boy Advance - One Piece - Kuro_71: -165315834
+      Game Boy Advance - One Piece - Kuro_90: 843055069
+      Game Boy Advance - One Piece - Kuro_13: 184706442
+      Game Boy Advance - One Piece - Kuro_18: 136385868
+      Game Boy Advance - One Piece - Kuro_64: -368159127
+      Game Boy Advance - One Piece - Kuro_65: 441294809
+      Game Boy Advance - One Piece - Kuro_45: -1485654813
+      Game Boy Advance - One Piece - Kuro_91: -1302836479
+      Game Boy Advance - One Piece - Kuro_73: -656999312
+      Game Boy Advance - One Piece - Kuro_88: -263817472
+      Game Boy Advance - One Piece - Kuro_6: 896484538
+      Game Boy Advance - One Piece - Kuro_33: -925745807
+      Game Boy Advance - One Piece - Kuro_48: 891401476
+      Game Boy Advance - One Piece - Kuro_37: 181300793
+      Game Boy Advance - One Piece - Kuro_99: -1966992214
+      Game Boy Advance - One Piece - Kuro_69: 572534856
+      Game Boy Advance - One Piece - Kuro_17: 2070837704
+      Game Boy Advance - One Piece - Kuro_22: -1941256238
+      Game Boy Advance - One Piece - Kuro_77: -1496086764
+      Game Boy Advance - One Piece - Kuro_43: 974074528
+      Game Boy Advance - One Piece - Kuro_76: 1971662442
+      Game Boy Advance - One Piece - Kuro_83: 804458017
+      Game Boy Advance - One Piece - Kuro_57: -1669580802
+      Game Boy Advance - One Piece - Kuro_27: 609522348
+      Game Boy Advance - One Piece - Kuro_44: -1987883212
+      Game Boy Advance - One Piece - Kuro_98: -800114702
+      Game Boy Advance - One Piece - Kuro_50: 675138521
+      Game Boy Advance - One Piece - Kuro_102: 1106875189
+      Game Boy Advance - One Piece - Kuro_3: -1729918117
+      Game Boy Advance - One Piece - Kuro_68: 2095611733
+      Game Boy Advance - One Piece - Kuro_5: -1390479578
+      Game Boy Advance - One Piece - Kuro_35: 462449699
+      Game Boy Advance - One Piece - Kuro_97: 1103444155
+      Game Boy Advance - One Piece - Kuro_70: 1117892060
+      Game Boy Advance - One Piece - Kuro_53: 1031590554
+      Game Boy Advance - One Piece - Kuro_75: 107063056
+      Game Boy Advance - One Piece - Kuro_41: -469518680
+      Game Boy Advance - One Piece - Kuro_55: 388490740
+      Game Boy Advance - One Piece - Kuro_34: 1723392465
+      Game Boy Advance - One Piece - Kuro_47: 859767416
+      Game Boy Advance - One Piece - Kuro_84: -504721119
+      Game Boy Advance - One Piece - Kuro_52: 1976867331
+      Game Boy Advance - One Piece - Kuro_2: 686482893
+      Game Boy Advance - One Piece - Kuro_21: 1184427312
+      Game Boy Advance - One Piece - Kuro_23: 1766425167
+      Game Boy Advance - One Piece - Kuro_26: -520147330
+      Game Boy Advance - One Piece - Kuro_51: -1626668983
+      Game Boy Advance - One Piece - Kuro_62: -969213917
+      Game Boy Advance - One Piece - Kuro_92: 192387390
+      Game Boy Advance - One Piece - Kuro_10: -1825153161
+      Game Boy Advance - One Piece - Kuro_25: 635378489
+      Game Boy Advance - One Piece - Kuro_86: -2137855933
+      Game Boy Advance - One Piece - Kuro_46: 1753705251
+      Game Boy Advance - One Piece - Kuro_78: 3413817
+      Game Boy Advance - One Piece - Kuro_12: 1024874231
+      Game Boy Advance - One Piece - Kuro_24: -497361949
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
