@@ -12,7 +12,6 @@ public class ActionZone : MonoBehaviour
         anim = GetComponentInParent<Animator>();
         enemy = GetComponentInParent<EnemyAI>();
     }
-
     void Update()
     {
         if (inRange && !anim.GetCurrentAnimatorStateInfo(0).IsName("Attack"))
@@ -20,7 +19,6 @@ public class ActionZone : MonoBehaviour
             enemy.Flip();
         }
     }
-
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.tag == "Player")

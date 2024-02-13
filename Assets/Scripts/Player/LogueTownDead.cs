@@ -2,8 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
-public class PlayerController : MonoBehaviour
+using UnityEngine.SceneManagement;
+public class LogueTownDead : MonoBehaviour
 {
     private float MovementDirection;
     public float Speed;
@@ -20,7 +20,7 @@ public class PlayerController : MonoBehaviour
     public GameObject groundCheck;
     public GameObject deathPanel;
     public LayerMask groundLayer;
-   // public GameObject panel;
+    // public GameObject panel;
     public Image can;
     /*************************/
     bool SagaBakiyorMu = true;
@@ -43,7 +43,7 @@ public class PlayerController : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.Q))
             {
                 Atak1();
-                nextAttack = Time.time + 1f / attackRate; 
+                nextAttack = Time.time + 1f / attackRate;
             }
             if (Input.GetKeyDown(KeyCode.W))
             {
@@ -86,7 +86,7 @@ public class PlayerController : MonoBehaviour
     {
         MovementDirection = Input.GetAxisRaw("Horizontal");
         rb.velocity = new Vector2(MovementDirection * Speed, rb.velocity.y);
-        anim.SetFloat("runSpeed",Mathf.Abs(MovementDirection * Speed));
+        anim.SetFloat("runSpeed", Mathf.Abs(MovementDirection * Speed));
     }
     void CheckRotation()
     {
@@ -118,7 +118,7 @@ public class PlayerController : MonoBehaviour
             {
                 rb.velocity = new Vector2(rb.velocity.x, JumpPower);
             }
-        } 
+        }
     }
     //private void OnDrawGizmos()
     //{
@@ -155,28 +155,31 @@ public class PlayerController : MonoBehaviour
             can.fillAmount -= 0.1f;
             anim.SetTrigger("Hit");
             currentHealth -= 10;
-             anim.SetTrigger("Hit");
             if (currentHealth <= 0)
             {
-                anim.SetTrigger("Lose");
+                anim.SetTrigger("dragon");
                 anim.SetTrigger("Death");
+                Invoke("LoadLastScene", 2.0f);
                 deathPanel.SetActive(true);
                 MovementDirection = 0;
-            }  
+            }
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-         if (collision.collider.tag == "deniz")
-            {
-                anim.SetTrigger("Lose");
-                deathPanel.SetActive(true);
-                MovementDirection = 0;
-            }
+        if (collision.collider.tag == "deniz")
+        {
+            anim.SetTrigger("Lose");
+            deathPanel.SetActive(true);
+            MovementDirection = 0;
+        }
     }
     void DurdurOyun()
     {
         Time.timeScale = 0;
     }
-
+    void LoadLastScene()
+    {
+        SceneManager.LoadScene("LastScene");
+    }
 }

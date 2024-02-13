@@ -6,15 +6,6 @@ public class NpcController : MonoBehaviour
 {
     public string[] dialog;
     public string nameOfNpc;
-    void Start()
-    {
-        
-    }
-
-    void Update()
-    {
-        
-    }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))

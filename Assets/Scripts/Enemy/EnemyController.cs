@@ -21,10 +21,6 @@ public class EnemyController : MonoBehaviour
         isPlayingFirstAnimation = true;
         StartCoroutine(SwitchAnimations());
     }
-    private void Update()
-    {
-       
-    }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("AtakZone"))
@@ -41,7 +37,6 @@ public class EnemyController : MonoBehaviour
             }
         }
     }
-
     IEnumerator SwitchAnimations()
     {
         while (true)
@@ -58,6 +53,4 @@ public class EnemyController : MonoBehaviour
             isPlayingFirstAnimation = !isPlayingFirstAnimation;
         }
     }
-
-
 }

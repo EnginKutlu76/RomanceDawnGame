@@ -12,11 +12,6 @@ public class Arena1 : MonoBehaviour
     {
         boxCollider = GetComponent<BoxCollider2D>();
     }
-
-    void Update()
-    {
-        
-    }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))

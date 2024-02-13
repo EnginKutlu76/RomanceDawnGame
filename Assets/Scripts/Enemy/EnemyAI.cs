@@ -20,14 +20,12 @@ public class EnemyAI : MonoBehaviour
 
     private Animator anim;
     public GameObject actionZone, trigerZone;
-
     void Start()
     {
         intTimer = timer;
         anim = GetComponent<Animator>();
         SelectTarget();
     }
-
     void Update()
     {
         if (!attackMode)
@@ -120,7 +118,6 @@ public class EnemyAI : MonoBehaviour
     private bool InsideOfBounds()
     {
         return transform.position.x > leftBound.position.x && transform.position.x < rightBound.position.x;
-
     }
     public void Move()
     {

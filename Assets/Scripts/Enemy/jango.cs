@@ -2,12 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemyNPC : MonoBehaviour
+public class jango : MonoBehaviour
 {
     public float maxHealth;
     public float currentHealth;
     Animator anim;
-    public Transform target;
     public void Start()
     {
         currentHealth = maxHealth;
@@ -18,29 +17,17 @@ public class EnemyNPC : MonoBehaviour
         if (currentHealth <= 0)
         {
             anim.SetTrigger("Death");
-            Destroy(gameObject, 1f);
         }
-        Flip();
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("AtakZone"))
         {
-            currentHealth -= 10;
-            anim.SetTrigger("Hit");
+            currentHealth -= 20;
         }
-    }
-    public void Flip()
-    {
-        Vector3 rotation = transform.eulerAngles;
-        if (transform.position.x > target.position.x)
+        if (collision.CompareTag("Player"))
         {
-            rotation.y = 0f;
+            anim.enabled = true;
         }
-        else
-        {
-            rotation.y = 180f;
-        }
-        transform.eulerAngles = rotation;
     }
 }

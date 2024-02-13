@@ -18,12 +18,6 @@ public class CameraController : MonoBehaviour
             instance = this;
         }
     }
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
     void Update()
     {
         var minPosY = activeRoom.GetComponent<BoxCollider2D>().bounds.min.y + minModY;
@@ -37,6 +31,5 @@ public class CameraController : MonoBehaviour
         Vector3 smoothPos = Vector3.Lerp(transform.position, clampedPos, dampSpeed * Time.deltaTime);
 
         transform.position = smoothPos;
-
     }
 }

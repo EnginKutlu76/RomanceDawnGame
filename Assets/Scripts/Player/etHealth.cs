@@ -5,17 +5,6 @@ using UnityEngine;
 public class etHealth : MonoBehaviour
 {
     PlayerController controller;
-    
-    void Start()
-    {
-        
-    }
-
-   
-    void Update()
-    {
-        
-    }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player") && controller.currentHealth < 100)

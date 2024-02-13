@@ -7,17 +7,6 @@ using UnityEngine.UIElements;
 public class GameManager : MonoBehaviour
 {
     public GameObject panel;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
     public void StartButton()
     {
         SceneManager.LoadScene(1);
@@ -34,7 +23,6 @@ public class GameManager : MonoBehaviour
     public void QuitGame()
     {
 #if UNITY_EDITOR
-        // Oyunun Unity Editor içinde çalýþtýrýlýyorsa, oyunu durdur
         UnityEditor.EditorApplication.isPlaying = false;
 #else
         // Oyun stand-alone olarak çalýþtýrýlýyorsa, uygulamadan çýk

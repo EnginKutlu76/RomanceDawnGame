@@ -13,8 +13,6 @@ public class Sounds : MonoBehaviour
     {
         PlayAudio(backgroundAs); 
     }
-
-    // Update is called once per frame
     void Update()
     {
         MasterVolume();

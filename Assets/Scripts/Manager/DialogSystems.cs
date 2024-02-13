@@ -31,16 +31,6 @@ public class DialogSystems : MonoBehaviour
             instance = this;
         }
     }
-
-    void Start()
-    {
-        
-    }
-
-    void Update()
-    {
-        
-    }
     public void AddDialog(string[] lines, string npcName)
     {
         dialogIndex = 0;

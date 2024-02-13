@@ -12,16 +12,12 @@ public class BossController : MonoBehaviour
     [Header("Attack")]
     public Transform attack;
     public float attackRadius;
-    
-
     void Start()
     {
         anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
     }
-
-   
     void Update()
     {
         LookPlayer();
@@ -32,17 +28,9 @@ public class BossController : MonoBehaviour
     {
         if (player.position.x > transform.position.x && !lookingRight || player.position.x < transform.position.x && lookingRight)
         {
-            //lookingRight = !lookingRight;
-            //transform.position = new Vector3(0, transform.position.y + 180, 0);
             FlipFace();
         }
     }
-
-    //public void Attack()
-    //{
-    //    Collider2D[] objeler = 
-    //}
-
     void FlipFace()
     {
         lookingRight = !lookingRight;
@@ -50,6 +38,4 @@ public class BossController : MonoBehaviour
         theScale.x *= -1;
         transform.localScale = theScale;
     }
-
-
 }
